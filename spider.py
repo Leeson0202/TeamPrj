@@ -170,6 +170,7 @@ def main():
         path2 = './datas/json/' + chr(a) + '.json'
         spider_2(path1, path2)
         pass
+        print()
 
 
 if __name__ == '__main__':
