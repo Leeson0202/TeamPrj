@@ -19,14 +19,13 @@ class vocabulary:
         self.sentence = sentences    # 单词的例句
 
     def keys(self):
-             #当对实例化对象使用dict(obj)的时候, 会调用这个方法,这里定义了字典的键, 其对应的值将以obj['name']的形式取,
-                # 但是对象是不可以以这种方式取值的, 为了支持这种取值, 可以为类增加一个方法'''
-        return ('word_spell', 'Mean_tag__2vGcf', 'clearfix','sentence')
+        # 当对实例化对象使用dict(obj)的时候, 会调用这个方法,这里定义了字典的键, 其对应的值将以obj['name']的形式取,
+        # 但是对象是不可以以这种方式取值的, 为了支持这种取值, 可以为类增加一个方法'''
+        return ('word_spell', 'Mean_tag__2vGcf', 'clearfix', 'sentence')
 
     def __getitem__(self, item):
         '''内置方法, 当使用obj['name']的形式的时候, 将调用这个方法, 这里返回的结果就是值'''
         return getattr(self, item)
-
 
 
 def get_HTTP_response(url=None, params=None):
@@ -90,7 +89,7 @@ def MyBeautifulSoup(soup=None, rex=None):
             return word_spell[0].text, Mean_tag__2vGcf, clearfixs, sentences
 
 
-def spider_2(path1=None,path2 = None):
+def spider_2(path1=None, path2=None):
     dictionary = list()
     with open(path1, 'r', encoding="utf-8") as f:  # 读取字母文件
         word_list = f.readlines()
@@ -116,17 +115,17 @@ def spider_2(path1=None,path2 = None):
             #     print(dictionary[-1].Mean_tag__2vGcf,dictionary[-1].clearfix[0])
             # except:
             #     pass
-    dictionary_list= list()
+    dictionary_list = list()
     for x in dictionary:
         dictionary_list.append(dict(x))
-        
+
         # dictionary_list.append(globals()['{}'.format(x.woed_spell)] = {})
         pass
     dictionary_json = json.dumps(dictionary_list)
-    with open(path2,'w') as f:
+    with open(path2, 'w') as f:
         f.writelines(dictionary_json)
         print("保存成功")
-        
+
 
 def spider_1(url=None):
     word_list = list()   # 初始化 单词列表
@@ -166,10 +165,11 @@ def main():
     #     spider_1(url)     # 进入spider_1
 
     for a in range(ord('a'), ord('z') + 1):
-        
+
         path1 = './datas/txt/' + chr(a) + '.txt'
         path2 = './datas/json/' + chr(a) + '.json'
-        spider_2(path1,path2)
+        spider_2(path1, path2)
+        pass
 
 
 if __name__ == '__main__':
