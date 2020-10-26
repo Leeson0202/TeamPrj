@@ -166,7 +166,7 @@ def main():
     #     spider_1(url)     # 进入spider_1
 
     for a in range(ord('a'), ord('z') + 1):
-        pass
+        
         path1 = './datas/txt/' + chr(a) + '.txt'
         path2 = './datas/json/' + chr(a) + '.json'
         spider_2(path1,path2)
