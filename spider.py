@@ -164,7 +164,7 @@ def main():
     #     # print(url)
     #     spider_1(url)     # 进入spider_1
 
-    for a in range(ord('a'), ord('z') + 1):
+    for a in range(ord('c'), ord('z') + 1):
 
         path1 = './datas/txt/' + chr(a) + '.txt'
         path2 = './datas/json/' + chr(a) + '.json'
@@ -172,7 +172,6 @@ def main():
 
 
 
-        
 
 
 if __name__ == '__main__':
