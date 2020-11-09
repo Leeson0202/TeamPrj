@@ -4024,7 +4024,7 @@ listening post
 listens
 lister
 listeria
-listeria monocytogenes 
+listeria monocytogenes
 listerize
 listing
 listings
@@ -5232,7 +5232,7 @@ loudest
 loudhailer
 loudish
 loudly
-loudly laʊdli] adv.大声地；高声地；花俏地　
+loudly laʊdli] adv.大声地；高声地；花俏地
 loudmouth
 loudmouthed
 loudness

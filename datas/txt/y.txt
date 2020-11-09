@@ -1,15 +1,119 @@
 Y
 Y chromosome
+YAA
+YACC
+YAF
+YAR
+YEST
+YHVH
+YL
+YMCA
+YOS
+YOT
+YRT
+YWCA
+YYC
+Yaba
+Yacolt
+Yada
+Yade
+Yahveh
+Yahwe
+Yahweh
+Yakima
+Yakut
+Yakuts
+Yale
+Yaltopya
+Yamaltu
+Yancey
+Yangon
+Yangshuo
+Yangtze
+Yangtze river
+Yanjing
+Yankee
+Yanks
+Yanqui
+Yardie
+Yates
+Yazhou
+Yeager
+Yeats
+Yeddo
+Yellow Pages
+Yellow jacket
+Yellow journalism
+Yellowstone
+Yemen
+Yemeni
+Yerks
+Yesinia enterocolitica
+Yeso
+Yesterdays
+Yetts
+Yetus
+Yezo
+Yiddish
+Yie
+Yis
+Yoder
+Yoe
+Yoko
+Yokohama
+Yom Kippur
+Yona
+Yong
+Yonkers
+York
+Yorkshire
+Yorkshire pudding
+Yoruba
+Yoshiki
+You bet!
+You have my word
+You reap what you sow
+You will never guess.
+YouTube
+Youl
+Young pioneer
+Youngs
+Your) Excellency
+Your) Majesty
+Your) Royal Highness
+Yours Truly
+Yours faithfully
+Youth Day
+You鈥檙e welcome
+Yp
+Ypres
+Ypsilanti
+Yreka
+Yt
+Yucatan
+Yue
+Yuen
+Yugas
+Yugoslavia
+Yujin
+Yuko
+Yukon
+Yule
+Yuletide
+Yuma
+Yuman
+Yumi
+Yumiko
+Yutan
+Yvette
+Yy
 y-axis
 ya
-YAA
-Yaba
 yabber
 yabbered
 yabbering
 yabbers
 yacare
-YACC
 yacht
 yachted
 yachter
@@ -18,10 +122,6 @@ yachts
 yachtsman
 yachtswoman
 yack
-Yacolt
-Yada
-Yade
-YAF
 yaff
 yaffle
 yager
@@ -31,29 +131,20 @@ yah
 yahoo
 yahoos
 yahtzee
-Yahveh
-Yahwe
-Yahweh
 yahwism
 yair
 yak
-Yakima
 yakin
 yakitori
 yakking
 yaks
-Yakut
-Yakuts
 yakuza
-Yale
 yalie
 yalta
-Yaltopya
 yalu
 yam
 yama
 yamaha
-Yamaltu
 yamato
 yamato-e
 yamen
@@ -66,20 +157,11 @@ yamp
 yams
 yamun
 yan
-Yancey
 yang
-Yangon
-Yangshuo
-Yangtze
-Yangtze river
-Yanjing
 yank
 yanked
-Yankee
 yankee shrewdness
 yanking
-Yanks
-Yanqui
 yantra
 yaounde
 yaourt
@@ -94,7 +176,6 @@ yapping
 yappy
 yaps
 yaqui
-YAR
 yarage
 yarborough
 yard
@@ -104,7 +185,6 @@ yardang
 yardarm
 yardbird
 yarded
-Yardie
 yarding
 yardman
 yardmaster
@@ -130,7 +210,6 @@ yasukuni shrine
 yatagan
 yataghan
 yate
-Yates
 yatter
 yaud
 yauld
@@ -153,7 +232,6 @@ yawper
 yawping
 yaws
 yay
-Yazhou
 yazoo
 yb
 ycleped
@@ -161,7 +239,6 @@ yclept
 yd
 ye
 yea
-Yeager
 yeah
 yean
 yeaned
@@ -208,9 +285,7 @@ yeastily
 yeasting
 yeasts
 yeasty
-Yeats
 yech
-Yeddo
 yegg
 yeggman
 yeh
@@ -227,9 +302,6 @@ yellow card
 yellow croaker
 yellow earth
 yellow fever
-Yellow jacket
-Yellow journalism
-Yellow Pages
 yellow pepper
 yellow pine
 yellow river
@@ -251,7 +323,6 @@ yellowlegs
 yellowly
 yellowness
 yellows
-Yellowstone
 yellowtail
 yellowthroat
 yellowwood
@@ -263,8 +334,6 @@ yelped
 yelper
 yelping
 yelps
-Yemen
-Yemeni
 yen
 yenite
 yenned
@@ -283,7 +352,6 @@ yerd
 yerevan
 yerk
 yerkish
-Yerks
 yersinia
 yersinia enterocolitica
 yersinia pestis
@@ -293,15 +361,11 @@ yes-man
 yeses
 yeshiva
 yeshivah
-Yesinia enterocolitica
 yesman
-Yeso
 yesses
-YEST
 yester
 yesterday
 yesterday morning
-Yesterdays
 yestermorn
 yestern
 yesternight
@@ -311,18 +375,12 @@ yestreen
 yesty
 yet
 yeti
-Yetts
-Yetus
 yeuk
 yew
 yewen
 yews
-Yezo
-YHVH
 yi
 yid
-Yiddish
-Yie
 yield
 yield rate
 yield strength
@@ -348,11 +406,8 @@ yipping
 yips
 yird
 yirr
-Yis
 yit
-YL
 ylang-ylang
-YMCA
 ymir
 yo
 yo-yo
@@ -368,10 +423,8 @@ yodelled
 yodeller
 yodelling
 yodels
-Yoder
 yodh
 yodle
-Yoe
 yoga
 yogh
 yoghourt
@@ -392,8 +445,6 @@ yokelish
 yokemate
 yokes
 yoking
-Yoko
-Yokohama
 yolande
 yold
 yolk
@@ -401,46 +452,31 @@ yolk sac
 yolk stalk
 yolky
 yom
-Yom Kippur
 yon
-Yona
 yond
 yonder
-Yong
 yoni
 yonis
 yonker
-Yonkers
 yoo-hoo
 yor're through
 yore
-York
 yorker
-Yorkshire
-Yorkshire pudding
 yorktown
-Yoruba
-YOS
 yosemite
-Yoshiki
-YOT
 yotta
 yottabyte
 you
 you are welcome
 you bet
-You bet!
 you can make it
 you can say that again
 you did right
-You have my word
 you know
 you name it
 you never know
 you owe me one
-You reap what you sow
 you said it
-You will never guess.
 you'd
 you'd better
 you'll
@@ -448,7 +484,6 @@ you're
 you're welcome
 you've
 you-all
-Youl
 young
 young adult
 young and old
@@ -456,7 +491,6 @@ young couple
 young lady
 young man
 young people
-Young pioneer
 young turk
 youngberry
 younger
@@ -468,31 +502,24 @@ youngest
 youngest child
 youngish
 youngling
-Youngs
 youngster
 youngsters
 youngstown
 younker
 your
-your excellency
 your Highness
+your excellency
 your honor
 your lord
 your majesty
 your uncle
-Your) Excellency
-Your) Majesty
-Your) Royal Highness
 yours
-Yours faithfully
 yours sincerely
-Yours Truly
 yourself
 yourselves
 youse
 youth
 youth centre
-Youth Day
 youth hostel
 youth league
 youth worker
@@ -501,8 +528,6 @@ youthful
 youthfully
 youthfulness
 youths
-YouTube
-You’re welcome
 yow
 yowe
 yowie
@@ -511,16 +536,10 @@ yowled
 yowling
 yowls
 yoyo
-Yp
 yperite
-Ypres
-Ypsilanti
 yquem
 yr
-Yreka
-YRT
 ys
-Yt
 ytterbia
 ytterbic
 ytterbium
@@ -531,33 +550,19 @@ yu
 yuan
 yuans
 yuba
-Yucatan
 yucca
 yuck
 yucky
-Yue
-Yuen
 yug
 yuga
-Yugas
 yugoslav
-Yugoslavia
 yugoslavian
-Yujin
 yuk
 yukata
 yuke
-Yuko
-Yukon
 yulan
-Yule
-Yuletide
 yum
 yum-yum
-Yuma
-Yuman
-Yumi
-Yumiko
 yummier
 yummiest
 yummy
@@ -566,10 +571,5 @@ yup
 yuppie
 yurt
 yurta
-Yutan
-Yvette
 yvonne
-YWCA
 ywis
-Yy
-YYC

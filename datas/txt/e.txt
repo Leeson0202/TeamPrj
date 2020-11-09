@@ -3434,7 +3434,7 @@ enteral
 enterate
 entered
 enteric
-enteric virus 
+enteric virus
 enteric-coated tablet
 entering
 enteritidis

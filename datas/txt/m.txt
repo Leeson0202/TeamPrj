@@ -1013,7 +1013,7 @@ Mooz
 Moraga
 Morales
 Moran
-Moraxella catarrhalis 
+Moraxella catarrhalis
 Morchella
 Moreland
 Morelle
@@ -5224,7 +5224,7 @@ microteaching
 microtome
 microtone
 microtube extension
-microtubular 
+microtubular
 microtubule
 microtus
 microvascular
@@ -8139,7 +8139,7 @@ mucose
 mucositis
 mucosity
 mucous
-mucous membrance 
+mucous membrance
 mucous membrane
 mucro
 mucronate

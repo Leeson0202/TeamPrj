@@ -807,7 +807,7 @@ Sivan
 Siwa
 Sixpack
 Sjogren syndrome
-Sjögren's Syndrome
+Sj枚gren's Syndrome
 Skagway
 Skall
 Skanda
@@ -1144,7 +1144,7 @@ Stratford
 Stravinsky
 Streeter
 Strein
-Streptococcus pyogenes 
+Streptococcus pyogenes
 Streptococcus viridans
 Streptoneura
 Stressors
@@ -16283,7 +16283,7 @@ superordinate
 superorganism
 superovulation
 superoxide
-superoxide dismutase 
+superoxide dismutase
 superpatriot
 superpatriotic
 superpatriotism
