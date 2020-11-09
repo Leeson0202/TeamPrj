@@ -34,7 +34,7 @@ def get_HTTP_response(url=None, params=None):
             r = get(url, headers=header, params=params,
                     timeout=30)  # 伪装浏览器进行爬取
             r.raise_for_status()                     # 自动检测爬虫状态=200
-            r.encoding = r.apparent_encoding         # 转换格式
+            r.encoding = 'utf-8'         # 转换格式
             return r  # 返回response
         except:
             print("响应失败")
@@ -47,7 +47,9 @@ def MyBeautifulSoup(soup=None, rex=None):
         word_list = soup.find_all('a')
         return [x.string for x in word_list]
     else:
-        word_spell = Mean_tag__2vGcf = clearfixs = sentences = None   # 初始化
+        word_spell = Mean_tag__2vGcf = ''    # 初始化
+        clearfixs = list()
+        sentences = dict()
         word_box = None
         try:
             word_box = soup.find_all(
@@ -64,6 +66,8 @@ def MyBeautifulSoup(soup=None, rex=None):
                     name='p', attrs={"class": "Mean_tag__2vGcf"})   # 找到 标签 四六级
                 if Mean_tag__2vGcf:  # 如果 有标签
                     Mean_tag__2vGcf = Mean_tag__2vGcf[0].text
+                else:
+                    Mean_tag__2vGcf = ''
 
                 Mean_part = word_box.find_all(
                     name='ul', attrs={"class": "Mean_part__1RA2V"})  # 找到 词性 及 翻译
@@ -84,6 +88,8 @@ def MyBeautifulSoup(soup=None, rex=None):
                         name='p', attrs={"class": "NormalSentence_cn__27VpO"})  # 例句翻译
                     sentences = {
                         e.text: c.text for e in sentences_e[0:4] for c in sentences_c[0:4]}
+                else:
+                    sentences = dict()
             return word_spell[0].text, Mean_tag__2vGcf, clearfixs, sentences
         except:
             return word_spell[0].text, Mean_tag__2vGcf, clearfixs, sentences
@@ -95,6 +101,8 @@ def spider_2(path1=None, path2=None):
         word_list = f.readlines()
     for word in word_list:
         word = word.strip()
+        if not word:
+            continue
         print(word)
         url = url_head_2 + word
 
@@ -105,7 +113,9 @@ def spider_2(path1=None, path2=None):
             soup = BeautifulSoup(response.text, 'html.parser')
             box = soup.find_all(name='div', attrs={
                                 "class": "Content_center__3EE2R"})[0]
-            word_spell = Mean_tag__2vGcf = clearfixs = sentences = None
+            word_spell = Mean_tag__2vGcf =  ''
+            clearfixs = list()
+            sentences = dict()
             if box.ul:
                 word_spell, Mean_tag__2vGcf, clearfixs, sentences = MyBeautifulSoup(
                     soup=box.ul, rex=2)
@@ -164,7 +174,7 @@ def main():
     #     # print(url)
     #     spider_1(url)     # 进入spider_1
 
-    for a in range(ord('c'), ord('z') + 1):
+    for a in range(ord('a'), ord('c') + 1):
 
         path1 = './datas/txt/' + chr(a) + '.txt'
         path2 = './datas/json/' + chr(a) + '.json'
