@@ -328,7 +328,7 @@ International Sales Staff
 International System of Units
 International Telecommunication Satellite Consortium
 International Union of Marine Insurance
-International Workers’ Day
+International Workers Day
 Internationale
 Internet
 Internet Control Message Protocol
@@ -4772,7 +4772,7 @@ intangibly
 intarsia
 integer
 integers
-integer，whole number
+integerwhole number
 integrability
 integrable
 integral

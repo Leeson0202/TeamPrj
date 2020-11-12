@@ -800,8 +800,8 @@ Chief Announcer
 Chief Judge
 Chiggers
 Children's Day
-Children’s Day
-Children’s chair
+Childrens Day
+Childrens chair
 Childress
 Chile
 Chiles
@@ -3440,7 +3440,7 @@ cartoning
 cartons
 cartoon
 cartoon (film)
-cartoon kɑː'tuːn] n.卡通；漫画
+cartoon k'tun] n.
 cartooned
 cartooning
 cartoonist
@@ -15470,4 +15470,3 @@ czarist
 czaritza
 czech
 czechoslovak
-﻿coffee pot

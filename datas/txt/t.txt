@@ -4133,7 +4133,7 @@ thickly
 thickness
 thickset
 thief
-thief (澶峵hieves)
+thief (thieves)
 thieve
 thieved
 thieveries
@@ -9670,4 +9670,3 @@ tzetze
 tzigane
 tzimmes
 tzitzis
-锘縯ea table
