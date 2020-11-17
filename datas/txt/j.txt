@@ -317,7 +317,7 @@ jack-in-a-box
 jack-in-the-box
 jack-in-the-pulpit
 jack-knife
-jack-o'-lantern
+jack-o
 jack-of-all-trades
 jack-up
 jackal
@@ -360,7 +360,7 @@ jackstone
 jackstraw
 jackstraws
 jacky
-jacob's ladder
+jacob
 jacobian
 jacobus
 jaconet
@@ -624,7 +624,7 @@ jeff
 jeffersonian
 jehad
 jehoshaphat
-jehovah's witness
+jehovah
 jejuna
 jejunal
 jejune
@@ -725,7 +725,6 @@ jesu
 jesus christ
 jesus freak
 jet
-jet (aircraft)
 jet aircraft
 jet black
 jet engine
@@ -763,7 +762,7 @@ jetty
 jetway
 jeu
 jeux
-jew's-harp
+jew
 jew-baiting
 jewel
 jewel case
@@ -951,7 +950,6 @@ job stress
 job surrounding
 job title
 job vacancy
-job's-tears
 job-holder
 job-hop
 job-hopping
@@ -1358,7 +1356,7 @@ jump on the bandwagon
 jump operation
 jump out
 jump out at
-jump out of one's skin
+jump out of one
 jump over
 jump rope
 jump ship

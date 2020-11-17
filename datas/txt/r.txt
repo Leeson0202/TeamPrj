@@ -167,7 +167,7 @@ Rastafarian
 Rastafarianism
 Ratfishes
 Rathbun
-Rathke's pouch
+Rathke
 Rational Rose
 Raton
 Rattraps
@@ -192,7 +192,7 @@ Rayne
 Rd
 Rea
 Reach into
-Reactive Arthritis (Reiter's Syndrome)
+Reactive Arthritis
 Readings
 Ready money
 ReadyBoost
@@ -322,7 +322,7 @@ Reynard
 Reynolds
 Rhacophorus
 Rhapsody in blue
-Rhenium(Re)
+Rhenium
 Rhetic
 Rhine
 Rhineland
@@ -333,7 +333,7 @@ Rhode Island
 Rhodes
 Rhodes scholar
 Rhodesia
-Rhodium(Rh)
+Rhodium
 Rhododendrons
 Rhome
 Rhone
@@ -475,7 +475,7 @@ Romano
 Romanos
 Romansch
 Romany
-Romberg's sign
+Romberg
 Rome
 Romic
 Ron
@@ -534,7 +534,6 @@ Rotch
 Rotella
 Rotes
 Roth
-Roth's spot
 Rothschild
 Rotifera
 Rotonda
@@ -603,7 +602,7 @@ Russian Federation
 Russification
 Russify
 Russula
-Ruthenium(Ru)
+Ruthenium
 Ruths
 Rutilus
 Rutledge
@@ -613,8 +612,7 @@ Rya
 Ryanodine
 Ryder
 Ryes
-r&b
-r&d
+r
 r-818
 r-rated
 ra
@@ -635,7 +633,6 @@ rabbinical
 rabbis
 rabbit
 rabbit hutch
-rabbit's foot
 rabbited
 rabbiter
 rabbitfish
@@ -716,7 +713,7 @@ racing handlebars
 racism
 racist
 rack
-rack one's brains
+rack one
 rack rail
 rack up
 rack-rent
@@ -1065,8 +1062,8 @@ raise eyebrow
 raise eyebrows
 raise hell
 raise money
-raise one's hand
-raise someone's spirits
+raise one
+raise someone
 raise the devil
 raise the roof
 raise to
@@ -1079,7 +1076,7 @@ raising
 raising limit
 raisins
 raison
-raison d'etre
+raison d
 raisonne
 raja
 rajah
@@ -2858,7 +2855,7 @@ reduce by
 reduce inventory
 reduce pollution
 reduce sb. to tears
-reduce speed sign(al)
+reduce speed sign
 reduce the price
 reduce to
 reduced
@@ -6437,7 +6434,7 @@ rise in price
 rise superior to
 rise to
 rise to fame
-rise to one's feet
+rise to one
 rise to the occasion
 rise up
 rise up against
@@ -6461,7 +6458,7 @@ risk capital
 risk function
 risk management
 risk of material misstatement
-risk one's neck
+risk one
 risk pay planning
 risk premium
 risk-averse
@@ -6693,7 +6690,6 @@ rock pool
 rock salt
 rock sugar
 rock the boat
-rock'n'roll
 rock-and-roll
 rock-bottom
 rock-cake
@@ -6789,7 +6785,6 @@ rogueing
 rogueries
 roguery
 rogues
-rogues' gallery
 roguing
 roguish
 roguishly
@@ -6836,12 +6831,12 @@ roll film
 roll in
 roll into
 roll off
-roll one's hoop
+roll one
 roll out
 roll out the red carpet
 roll over
 roll up
-roll up one's sleeves
+roll up one
 roll weight
 roll-down training
 roll-in
@@ -7746,7 +7741,7 @@ run of the mill
 run off
 run on
 run on a bank
-run one's eyes over
+run one
 run out
 run out at
 run out from
@@ -7762,7 +7757,7 @@ run round in circles
 run scared
 run short
 run short of
-run someone's eyes over
+run someone
 run the risk
 run the risk of
 run the show

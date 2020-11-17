@@ -1,8 +1,9 @@
-from requests import *
-import json
-from spider1 import *
-from spider2 import *
+import requests
+import spider1
 import spider2
+import spider3
+from bs4 import BeautifulSoup
+
 import time
 
 header = {"user-agent": 'Mozilla/5.0'}  # 创建一个字段 浏览器5.0
@@ -10,11 +11,11 @@ url_head_1 = "https://www.koolearn.com"
 url_head_2 = "http://www.iciba.com/word?w="
 
 
-class vocabulary:
-    # word_spell Mean_tag__2vGcf clearfix sentences分别为: str str 列表 词典
-    def __init__(self, word_spell=None, Mean_tag__2vGcf=None, clearfix=None, sentences=None):
-        self.word_spell = word_spell  # 单词的拼写
-        self.Mean_tag__2vGcf = Mean_tag__2vGcf  # 四六级、高中
+class Vocabulary:
+    # spell tag clearfix sentences分别为: str str 列表 词典
+    def __init__(self, spell=None, tag=None, clearfix=None, sentences=None):
+        self.spell = spell  # 单词的拼写
+        self.tag = tag  # 四六级、高中
         self.clearfix = clearfix  # 词性和翻译
         self.sentence = sentences  # 单词的例句
 
@@ -25,8 +26,8 @@ def get_HTTP_response(url=None, params=None):
     """
     if url:
         try:
-            r = get(url, headers=header, params=params,
-                    timeout=10)  # 伪装浏览器进行爬取
+            r = requests.get(url, headers=header, params=params,
+                    timeout=30)  # 伪装浏览器进行爬取
             r.raise_for_status()  # 自动检测爬虫状态=200
         except:
             return None
@@ -44,13 +45,18 @@ def MyBeautifulSoup(soup=None, rex=None):
     if rex == 1:
         word_list = soup.find_all('a')
         word_list = [x.string for x in word_list]
-        my_word_list =list()
+        my_word_list = list()
         for i in word_list:
-            x = "".join(x for x in i if ord(x) < 256)
+            x = ''
+            for j in i:
+                if (ord(j)<91 and ord(j)>40)or(ord(j)>95 and ord(j)<123) or ord(j) == 32 or ord(j) ==45:
+                    x += j
+                else:
+                    break
             my_word_list.append(x)
         return my_word_list
     else:
-        word_spell = Mean_tag__2vGcf = ''  # 初始化
+        spell = tag = ''  # 初始化
         clearfixs = list()
         sentences = dict()
         word_box = None
@@ -59,18 +65,18 @@ def MyBeautifulSoup(soup=None, rex=None):
                 name='div', attrs={"class": "FoldBox_fold__1GZ_2"})  # 找到 单词简介box
             if word_box:
                 word_box = word_box[0]
-                word_spell = word_box.find_all(
+                spell = word_box.find_all(
                     name='h1', attrs={"class": "Mean_word__3SsvB"})  # 找到单词拼写
-                if (not word_spell):
-                    word_spell = word_box.find_all(
+                if (not spell):
+                    spell = word_box.find_all(
                         name='h2', attrs={"class": "Mean_sentence__2NXAD"})  # 找到单词拼写
 
-                Mean_tag__2vGcf = word_box.find_all(
+                tag = word_box.find_all(
                     name='p', attrs={"class": "Mean_tag__2vGcf"})  # 找到 标签 四六级
-                if Mean_tag__2vGcf:  # 如果 有标签
-                    Mean_tag__2vGcf = Mean_tag__2vGcf[0].text
+                if tag:  # 如果 有标签
+                    tag = tag[0].text
                 else:
-                    Mean_tag__2vGcf = ''
+                    tag = ''
 
                 Mean_part = word_box.find_all(
                     name='ul', attrs={"class": "Mean_part__1RA2V"})  # 找到 词性 及 翻译
@@ -89,19 +95,19 @@ def MyBeautifulSoup(soup=None, rex=None):
                         name='p', attrs={"class": "NormalSentence_en__3Ey8P"})  # 例句
                     sentences_c = sentences_box[0].find_all(
                         name='p', attrs={"class": "NormalSentence_cn__27VpO"})  # 例句翻译
-                    if len(sentences_c) > 4:   # 提取并合成字典
+                    if len(sentences_c) > 4:  # 提取并合成字典
                         sentences_e = [e.text for e in sentences_e[0:5]]
                         sentences_c = [c.text for c in sentences_c[0:5]]
-                        sentences = dict(zip(sentences_e,sentences_c))
+                        sentences = dict(zip(sentences_e, sentences_c))
                     else:
                         sentences_e = [e.text for e in sentences_e]
                         sentences_c = [c.text for c in sentences_c]
                         sentences = dict(zip(sentences_e, sentences_c))
                 else:
                     sentences = dict()
-            return word_spell[0].text, Mean_tag__2vGcf, clearfixs, sentences
+            return spell[0].text, tag, clearfixs, sentences
         except:
-            return word_spell[0].text, Mean_tag__2vGcf, clearfixs, sentences
+            return spell[0].text, tag, clearfixs, sentences
 
 
 def word_sort(path):
@@ -138,21 +144,24 @@ def to_progress(id=0):
         for a in range(ord('a'), ord('z') + 1):
             url = url_head_1 + '/dict/zimu_' + chr(a) + '_1.html'  # 生成一个字母的首url链接
             # print(url)
-            spider_1(url)  # 进入spider_1
+            spider1.spider_1(url)  # 进入spider_1
             # ---------------------------------去重排序算法
             path = './datas/txt/' + chr(a) + '.txt'
             word_sort(path=path)
         exit()
 
     elif (id == 2):  # ----搜索词汇
+        # spider3.spider3(word)
         pass
 
     elif (id == 3):  # ----重新搜索词汇详情
-        for i in range(ord('s'), ord('z') + 1):
+        for i in range(ord('a'), ord('a') + 1):
             path1 = './datas/txt/' + chr(i) + '.txt'
             path2 = './datas/json/' + chr(i) + '.json'
             start = time.time()
-            spider2.spider_2(path1, path2, letter=chr(i), key_word='',start = start)
+            spider2.spider_2(path1, path2, letter=chr(i), key_word='', start=start)
+        input("------------单词爬取保存成功-------------")
+        exit()
 
     elif (id == 4):  # ----继续搜索词汇详情
         a = 'a'
@@ -168,7 +177,7 @@ def to_progress(id=0):
             path1 = './datas/txt/' + chr(i) + '.txt'
             path2 = './datas/json/' + chr(i) + '.json'
             start = time.time()
-            spider2.spider_2(path1, path2, letter=chr(i), key_word=key_word, start = start)
+            spider2.spider_2(path1, path2, letter=chr(i), key_word=key_word, start=start)
         exit()
     else:
         exit()

@@ -257,8 +257,8 @@ Lazarus
 Lazio
 Lbf
 LeMay
-Lead(Pb)
-League of Arab States (Arab League)
+Lead
+League of Arab States
 League of Red Cross Societies
 Leakey
 Leander
@@ -479,7 +479,7 @@ Lina
 Linaceae
 Linch
 Linchi
-Lincoln's Birthday
+Lincoln
 Lincolnesque
 Lincolnian
 Lind
@@ -546,7 +546,7 @@ Load cell
 Loami
 Lobby Manager
 Lobules
-Local People's Congress
+Local People
 Local people
 Loche
 Locken
@@ -718,7 +718,7 @@ Lymantria
 Lymantriidae
 Lyme disease
 Lyn
-Lynch cancer family syndrome
+Lynch
 Lynd
 Lynda
 Lyndon
@@ -1016,9 +1016,6 @@ ladrone
 lady
 lady first
 lady friend
-lady's man
-lady's-slipper
-lady's-thumb
 lady-in-waiting
 lady-killer
 ladybeetle
@@ -1133,7 +1130,6 @@ lamb
 lamb chop
 lamb chops
 lamb of god
-lamb's-quarters
 lambada
 lambast
 lambaste
@@ -1289,8 +1285,8 @@ land of nod
 land of the leal
 land office
 land on
-land on one's feet
-land on someone's feet
+land on one
+land on someone
 land power
 land reclamation
 land reform
@@ -1834,7 +1830,7 @@ laugh at
 laugh away
 laugh down
 laugh off
-laugh one's head off
+laugh one
 laugh out
 laugh out of court
 laugh over
@@ -2150,7 +2146,7 @@ leading lady
 leading light
 leading man
 leading question
-leading role (character)
+leading role
 leading seaman
 leading shoe
 leading-edge
@@ -2330,7 +2326,7 @@ leatherwood
 leatherworker
 leathery
 leave
-leave a bad taste in someone's mouth
+leave a bad taste in someone
 leave a lot to be desired
 leave a message
 leave a note
@@ -2444,7 +2440,7 @@ left field
 left fielder
 left half back
 left hand
-left hand doesn't know what the right hand is doing
+left hand doesn
 left hand side
 left handed
 left indent
@@ -2838,16 +2834,15 @@ let rip
 let sleeping dogs lie
 let slide
 let slip
+let someone
 let someone down
 let someone into
 let someone loose
-let someone's hair down
 let something alone
 let the cat out of the bag
 let through
 let up
 let your hair down
-let's
 let-down
 let...down...
 letch
@@ -3523,7 +3518,7 @@ like lightning
 like mad
 like terms
 like terms terms
-like water off a duck's back
+like water off a duck
 like-minded
 likeable
 liked
@@ -3716,7 +3711,7 @@ line noise
 line of credit
 line of sight
 line of work
-line one's pockets
+line one
 line out
 line printer
 line process
@@ -4186,11 +4181,11 @@ live abroad
 live action
 live and learn
 live ball
-live beyond one's means
+live beyond one
 live birth
 live broadcast
 live by
-live by one's wits
+live by one
 live cargo
 live down
 live for
@@ -4217,7 +4212,7 @@ live up
 live up to
 live wire
 live with
-live within one's means
+live within one
 live-in
 liveable
 lived
@@ -4299,7 +4294,6 @@ llb
 llewellyn
 llm
 lloyd
-lloyd's
 llyr
 ln
 lnk
@@ -4446,7 +4440,7 @@ local call
 local circuit theory
 local color
 local colour
-local currency]
+local currency
 local dish
 local express
 local government
@@ -4549,7 +4543,6 @@ locoism
 locomote
 locomotion
 locomotive
-locomotive (engine) shed
 locomotive engineer
 locomotive pilot
 locomotives
@@ -4939,13 +4932,13 @@ look out for number one
 look out of
 look out upon
 look over
-look over someone's shoulder
+look over someone
 look over something
 look round
 look sb. in the eye
 look sharp
+look someone
 look someone in the eye
-look someone's best
 look something up
 look the part
 look the same
@@ -5068,9 +5061,6 @@ lorazepam
 lorcha
 lord
 lord it over
-lord's day
-lord's prayer
-lord's supper
 lorded
 lording
 lordless
@@ -5123,34 +5113,15 @@ lose interest in
 lose it
 lose money
 lose no time
-lose one's appetite
-lose one's balance
-lose one's breath
-lose one's hair
-lose one's head
-lose one's mind
-lose one's nerve
-lose one's shirt
-lose one's temper
-lose one's way
+lose one
 lose oneself in
 lose oneself in sth.
 lose out
 lose out to
 lose patience
-lose sb's head
+lose sb
 lose sight of
-lose someone's balance
-lose someone's breath
-lose someone's cool
-lose someone's hair
-lose someone's head
-lose someone's heart to
-lose someone's life
-lose someone's nerves
-lose someone's shirt
-lose someone's temper
-lose someone's way
+lose someone
 lose steam
 lose to
 lose touch
@@ -5232,7 +5203,7 @@ loudest
 loudhailer
 loudish
 loudly
-loudly ladli] adv.
+loudly la
 loudmouth
 loudmouthed
 loudness

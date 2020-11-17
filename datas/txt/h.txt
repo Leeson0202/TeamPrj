@@ -182,7 +182,7 @@ Hanting
 Hanukah
 Hanukka
 Hanukkah
-Happy birthday!
+Happy birthday
 Hapsburg
 Haptens
 Haque
@@ -231,7 +231,7 @@ Harwich
 Hary
 Hasard
 Hase
-Hashimoto's thyroiditis
+Hashimoto
 Haskell
 Haslett
 Hassan
@@ -277,7 +277,7 @@ Headlands
 Healy
 Hearne
 Heaton
-Heaven's Lake
+Heaven
 Heavener
 Heavy Rain Icy
 Heavy T-Storm
@@ -322,7 +322,7 @@ Helicteres
 Heliothis
 Heliotrope sign
 Heliozoa
-Helium(He)
+Helium
 Hella
 Helleborus
 Hellene
@@ -495,7 +495,7 @@ Hiroshima
 Hirudinea
 Hirundinidae
 Hirundo
-His (Her
+His
 His excellency Mr. President and Mme...
 Hispanic
 Hispaniola
@@ -518,13 +518,12 @@ Hobbs
 Hobit
 Hoboken
 Hobson
-Hobson's choice
 Hocking
 Hockley
 Hode
 Hoder
 Hodges
-Hodgkin's disease
+Hodgkin
 Hodgkins
 Hodr
 Hoffman
@@ -649,7 +648,7 @@ Houston
 Hove
 How about?
 How dare you
-How do you do!
+How do you do
 Howard
 Howell
 Howells
@@ -702,9 +701,9 @@ Hun
 Hungarian
 Hungary
 Huns
-Hunter's
+Hunter
 Hunters
-Huntington's disease
+Huntington
 Huntley
 Huntsville
 Hurd
@@ -726,7 +725,7 @@ Hyde
 Hyderabad
 Hydes
 Hydr
-Hydrogen(H)
+Hydrogen
 Hydroida
 Hydromys
 Hye
@@ -832,7 +831,6 @@ hacky
 had
 had best
 had better
-had better (do)
 had better do
 had better do something
 had rather
@@ -1161,7 +1159,6 @@ hallel
 halleluiah
 hallelujah
 halley
-halley's comet
 halliard
 halling
 hallmark
@@ -1337,7 +1334,7 @@ hand in
 hand in glove
 hand in hand
 hand in hand with
-hand in someone's notice
+hand in someone
 hand lotion
 hand luggage
 hand me down
@@ -1522,7 +1519,7 @@ hang over
 hang together
 hang up
 hang up on
-hang up one's boots
+hang up one
 hang-glider
 hang-gliding
 hang-out
@@ -1567,7 +1564,7 @@ hanoi
 hansa
 hanse
 hansel
-hansen's disease
+hansen
 hansom
 hant
 hantle
@@ -1953,7 +1950,7 @@ hasid
 hasidic
 hasidim
 haslet
-hasn't
+hasn
 hasp
 hasped
 hasping
@@ -2088,7 +2085,7 @@ have a bite
 have a bone to pick with
 have a breakfast
 have a chat
-have a chip on one's shoulder
+have a chip on one
 have a clear conscience
 have a cold
 have a corner on
@@ -2160,8 +2157,8 @@ have a wonderful time
 have a word with
 have access to
 have affection for
-have an ace up one's sleeve
-have an ace up someone's sleeve
+have an ace up one
+have an ace up someone
 have an advantage over
 have an affair
 have an affair with
@@ -2183,7 +2180,7 @@ have been to
 have belief in
 have breakfast
 have but one
-have butterflies in someone's stomach
+have butterflies in someone
 have charge of
 have classes
 have confidence in
@@ -2247,16 +2244,9 @@ have no use for
 have nothing to do with
 have notice of
 have on
+have one
 have one foot in the grave
 have one over the eight
-have one's day
-have one's eye on something
-have one's hands full
-have one's hands tied
-have one's heart set on
-have one's moment
-have one's own way
-have one's work cut out
 have only to
 have out
 have pity on
@@ -2268,13 +2258,8 @@ have respect for
 have sale
 have sex
 have some bearing on
-have someone's day
-have someone's finger in the pie
-have someone's hands full
-have someone's heart set on
-have someone's moment
-have someone's own way
-have something at someone's fingertips
+have someone
+have something at someone
 have something in common
 have something to do with
 have sports
@@ -2287,7 +2272,7 @@ have the advantage of
 have the advantage over
 have the authority to do
 have the chance to do
-have the courage of one's convictions
+have the courage of one
 have the honor
 have the last laugh
 have the last word
@@ -2296,12 +2281,11 @@ have the nerve
 have the pleasure of doing something
 have the right to
 have the upper hand
-have the world at someone's feet
+have the world at someone
 have time off
 have to
 have to be
 have to do with
-have to do with;
 have trouble
 have trouble in doing something
 have trouble with
@@ -2415,7 +2399,6 @@ hdcopy
 hdl
 he
 he is my age
-he's
 he-man
 head
 head alignment
@@ -2500,8 +2483,6 @@ headlock
 headlong
 headman
 headmaster
-headmaster's office
-headmaster's study
 headmasters
 headmistress
 headmost
@@ -3391,8 +3372,6 @@ here to stay
 here we go
 here you are
 here you go
-here's
-here's to your health
 hereabout
 hereabouts
 hereafter
@@ -3814,7 +3793,7 @@ high level
 high life
 high lobbing pass
 high mass
-high on the government's agenda
+high on the government
 high order births
 high performance
 high performance organization
@@ -4442,10 +4421,7 @@ hold off
 hold office
 hold on
 hold on to
-hold one's breath
-hold one's ground
-hold one's own
-hold one's tongue
+hold one
 hold oneself in
 hold onto
 hold out
@@ -4454,8 +4430,7 @@ hold out hope
 hold out on
 hold over
 hold positions of authority
-hold someone's breath
-hold someone's own
+hold someone
 hold something against someone
 hold steady
 hold still
@@ -5070,7 +5045,6 @@ hornblende
 hornbook
 horned
 horner
-horner's syndrome
 hornet
 hornets
 hornfels
@@ -5124,8 +5098,7 @@ horror story
 horror-stricken
 horror-struck
 hors
-hors d'oeuvre
-hors d'oeuvres
+hors d
 hors de combat
 hors doeuvre
 horse
@@ -5350,7 +5323,6 @@ hough
 houhere
 houmous
 hound
-hound's-tongue
 hounded
 hounder
 hounding
@@ -5503,7 +5475,6 @@ howdah
 howdie
 howdy
 howe
-howe'er
 howel
 however
 howf

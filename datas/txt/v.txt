@@ -62,7 +62,7 @@ Valdez
 Valdivia
 Valdosta
 Valencia
-Valentine's Day
+Valentine
 Valentino
 Valera
 Valeria
@@ -80,7 +80,7 @@ Valparaiso
 Valsalva Maneuver
 Valuators
 Value Proposition
-Vampire's Embrace
+Vampire
 Vancl
 Vancouver
 Vandalia
@@ -129,7 +129,6 @@ Ventura
 Venture capitalist
 Venules
 Venus
-Venus's-flytrap
 Venusian
 Vera wang
 Verbascum
@@ -219,8 +218,8 @@ Vinton
 Violas
 Violin Bow
 Vipera
+Virchow
 Virchow lymph nodes
-Virchow's triad
 Vire
 Virge
 Virgil

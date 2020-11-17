@@ -29,7 +29,7 @@ def spider_1(url=None):
             word_list.extend(MyBeautifulSoup(box, rex=1)) # 获取单词列表
 
             f_txt.seek(0,2)
-            for i in word_list[::-1]:
+            for i in word_list:
                 f_txt.write(i+'\n')
             f_txt.flush()
             ok = True
@@ -41,7 +41,7 @@ def spider_1(url=None):
                 urlappend = url_head_1 + next[0].get('href') # 提取url
                 url_list.append(urlappend)
             else:      # 没有下一页 退出
-                break
+                return
     except Exception as error:
         print(error)
     finally:

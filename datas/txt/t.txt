@@ -1,3 +1,4 @@
+
 T
 T cell receptor
 T junction
@@ -30,7 +31,6 @@ TCA
 TCAs
 TCL
 TCP
-TCP(transmission control protocol)
 TCol
 TD
 TDD
@@ -253,14 +253,14 @@ Tay-Sachs
 Taylors
 Tbilisi
 Teacher of Special Grade
-Teachers' Day
+Teachers
 Tead
 Teague
 Team events
 Teasdale
 Tebet
 Tecate
-Technetium(Tc)
+Technetium
 Technical Designer
 Technical Editor
 Technical Translator
@@ -289,7 +289,7 @@ Telemarketer
 Teleostei
 Teles
 Tell me
-Tellurium(Te)
+Tellurium
 Tellus
 Telnet Protocol
 Telugu
@@ -359,7 +359,7 @@ Thaddeus
 Thai
 Thailand
 Thalarctos
-Thallium(Tl)
+Thallium
 Thames
 Thank you for
 Thave
@@ -427,7 +427,7 @@ Thomist
 Thompson
 Thoracica
 Thoreau
-Thorium(Th)
+Thorium
 Thorne
 Thorne Middle School
 Thornhill
@@ -440,7 +440,7 @@ Threw up
 Thring
 Thrushes
 Thucydides
-Thulium(Tm)
+Thulium
 Thunder Bay
 Thunder in the Vicinity
 Thunnus
@@ -481,7 +481,7 @@ Timon
 Timor
 Timothy
 Timur
-Tin(Sn)
+Tin
 Tina
 Tinca
 Tind
@@ -505,7 +505,7 @@ Titan
 Titaness
 Titania
 Titanism
-Titanium(Ti)
+Titanium
 Titans
 Titers
 Titonka
@@ -593,8 +593,7 @@ Toty
 Touch-Tone
 Toulon
 Tour de france
-Tourette's disorder
-Tourette's syndrome
+Tourette
 Tourist Guide
 Tourist visa
 Tourniquets
@@ -746,7 +745,7 @@ Tull
 Tulu
 Tums
 Tunga
-Tungsten(W)
+Tungsten
 Tungusic
 Tunicata
 Tunisia
@@ -809,9 +808,9 @@ Tyrwhitt
 Tyson
 Tyto
 Tzetzes
+t
 t shirt
 t square
-t'ang
 t.
 ta-ta
 taa
@@ -843,7 +842,7 @@ tablature
 table
 table beam
 table cloth
-table d'hote
+table d
 table knife
 table lamp
 table manners
@@ -1224,7 +1223,7 @@ take home
 take ill
 take in
 take in sail
-take in someone's stride
+take in someone
 take interest in
 take into account
 take into consideration
@@ -1266,14 +1265,7 @@ take office
 take on
 take on a new look
 take on board
-take one's chance
-take one's cue from
-take one's own life
-take one's place
-take one's seat
-take one's stand
-take one's time
-take one's turn
+take one
 take oneself off
 take order to do
 take order with
@@ -1311,8 +1303,7 @@ take revenge
 take revenge on
 take risks
 take root
-take sb's breath away
-take sb's place
+take sb
 take sb. for a ride
 take sb. in the arms
 take sb. to task
@@ -1321,26 +1312,18 @@ take seriously
 take shape
 take shelter
 take sides
+take someone
 take someone by surprise
 take someone for
 take someone for a ride
 take someone for granted
 take someone out
 take someone to task
-take someone's advice
-take someone's chance
-take someone's cue from
-take someone's measure
-take someone's order
-take someone's own life
-take someone's temperature
-take someone's time
-take someone's toll
 take something back
 take something down
 take something for granted
 take something into account
-take something into one's own hands
+take something into one
 take something off
 take something out
 take something over
@@ -1352,7 +1335,7 @@ take step to
 take steps
 take steps to do something
 take sth. for granted
-take sth. in one's arms
+take sth. in one
 take sth. into consideration
 take stock
 take stock of
@@ -1396,7 +1379,7 @@ take time out
 take to
 take to court
 take to heart
-take to someone's heels
+take to someone
 take to task
 take to the road
 take trouble
@@ -1506,7 +1489,7 @@ talk shop
 talk show
 talk the hind leg off a donkey
 talk through
-talk through one's hat
+talk through one
 talk to
 talk turkey
 talk up
@@ -1574,7 +1557,7 @@ talons
 taluk
 taluka
 talus
-tam-o'-shanter
+tam-o
 tam-tam
 tamable
 tamale
@@ -2223,14 +2206,11 @@ teacart
 teach
 teach a lesson
 teach school
-teach(taught,taught)
 teach-in
 teachable
 teachableness
 teacher
 teacher lecturer
-teacher's day
-teacher's pet
 teacherage
 teachers
 teachers college
@@ -2667,7 +2647,6 @@ telic
 telint
 telium
 tell
-tell (told, told)
 tell a from b
 tell a lie
 tell a story
@@ -3360,7 +3339,7 @@ tetrahedral
 tetrahedrite
 tetrahedron
 tetrahydrobiopterin
-tetrahydrobiopurine (BH4)
+tetrahydrobiopurine
 tetrahydrocannabinol
 tetrahydrofolic acid
 tetrahydrofuran
@@ -3475,7 +3454,7 @@ thank
 thank god
 thank goodness
 thank you
-thank-you-ma'am
+thank-you-ma
 thanked
 thanker
 thankful
@@ -3503,9 +3482,6 @@ that makes two of us
 that much
 that sort of thing
 that way
-that's
-that's all
-that's it
 thataway
 thatch
 thatched
@@ -3580,7 +3556,7 @@ the Middle East
 the Midwest
 the Milky Way
 the Ministry of Education
-the National people's congress
+the National people
 the Netherlands
 the New Testament
 the Nile
@@ -3595,7 +3571,7 @@ the Pacific
 the Pacific Ocean
 the Palace Museum
 the Pentagon
-the People's Republic of China
+the People
 the Philippines
 the Pros and Cons
 the Red Cross
@@ -3634,13 +3610,13 @@ the aged
 the aims of education
 the alimentary canal
 the anointed
-the apple of someone's eye
+the apple of someone
 the armed forces
 the authorities
 the average
 the away goals rule
 the axe
-the ball is in someone's court
+the ball is in someone
 the bar
 the basic
 the beginning of Chinese New Year
@@ -3659,7 +3635,7 @@ the chances are
 the charts
 the chosen people
 the church of England
-the complete works(of)
+the complete works
 the conquered
 the construction industry
 the country
@@ -3714,7 +3690,7 @@ the last moment
 the last straw
 the latter
 the lesser of two evils
-the lion's share
+the lion
 the long jump
 the majority
 the mass
@@ -3798,9 +3774,9 @@ the sword of Damocles
 the talk of the town
 the thing is
 the third world
-the three R's
+the three R
 the three unities
-the time of someone's life
+the time of someone
 the train is due at...
 the treasury department
 the turn of the century
@@ -3956,9 +3932,6 @@ there and then
 there are
 there is
 there you go
-there's
-there's no doubt that
-there's no need
 thereabout
 thereabouts
 thereafter
@@ -4091,10 +4064,6 @@ thewless
 thews
 thewy
 they
-they'd
-they'll
-they're
-they've
 thiamin
 thiamine
 thiazide
@@ -4133,7 +4102,6 @@ thickly
 thickness
 thickset
 thief
-thief (thieves)
 thieve
 thieved
 thieveries
@@ -4202,7 +4170,7 @@ think of as
 think of something as something
 think of...as
 think on
-think on one's feet
+think on one
 think out
 think out of the box
 think over
@@ -4428,7 +4396,7 @@ three cubed
 three dimensional
 three of a kind
 three quarters
-three r's
+three r
 three times as many as
 three-bagger
 three-base hit
@@ -4591,14 +4559,14 @@ throw light on sth.
 throw money at something
 throw off
 throw on
-throw one's weight around
+throw one
 throw oneself into
 throw oneself on
 throw open
 throw out
 throw over
 throw over the wall
-throw someone's weight around
+throw someone
 throw the book at
 throw to the wind
 throw together
@@ -4632,7 +4600,7 @@ thrust beam
 thrust bearing
 thrust into
 thrust reverser
-thrust someone's way
+thrust someone
 thrust unit
 thrust upon
 thruster
@@ -4922,7 +4890,6 @@ tiger balm
 tiger beetle
 tiger lily
 tiger moth
-tiger's-eye
 tigereye
 tigerish
 tight
@@ -4936,8 +4903,8 @@ tight-fisted
 tight-fitting
 tight-lipped
 tighten
-tighten one's belt
-tighten someone's belt
+tighten one
+tighten someone
 tighten up
 tightened
 tightening
@@ -5455,7 +5422,7 @@ to apply for a job
 to appoint
 to arrest
 to ask for the floor
-to assume one's post
+to assume one
 to be blunt
 to be exact
 to be fitted with a contraceptive ring
@@ -5476,7 +5443,7 @@ to beat
 to begin
 to begin with
 to bid
-to bind(into sheaves)
+to bind
 to block
 to bluff
 to board a plane
@@ -5496,7 +5463,7 @@ to build
 to bump
 to cable
 to calcine
-to call (up)
+to call
 to call s.o. to witness
 to cancel
 to carry a bill
@@ -5524,7 +5491,7 @@ to contravene a law
 to control the midfield
 to convene
 to convert a try
-to convey one's sympathy
+to convey one
 to convoke
 to count the cost
 to crash
@@ -5551,7 +5518,7 @@ to dial
 to dial a number
 to dig
 to dine
-to dip one's headlights
+to dip one
 to disapprove of
 to discharge
 to disembark
@@ -5583,7 +5550,7 @@ to excess
 to exchange ambassadors
 to exchange views
 to exert a force
-to express one's sincere congratulations and best wishes
+to express one
 to express regret
 to extend an offer
 to face the wind
@@ -5626,7 +5593,7 @@ to harvest
 to have breakfast
 to have dinner
 to have lunch
-to have one's ticket punched
+to have one
 to have supper
 to hell with
 to hit
@@ -5653,14 +5620,14 @@ to lie fallow
 to lift the telephone
 to little avail
 to load
-to lock (the wheel)
+to lock
 to lodge a complaint
 to lodge a protest with
 to lodge an appeal
 to loosen
 to lose
 to lose consciousness
-to lose control of one's vehicle
+to lose control of one
 to lose height
 to maintain
 to maintain neutrality
@@ -5668,7 +5635,7 @@ to make a long story short
 to make a speech
 to make delivery
 to make representations to
-to make up for each other's deficiencies
+to make up for each other
 to manage
 to manure
 to marry
@@ -5689,15 +5656,7 @@ to no avail
 to no effect
 to no end
 to nourish
-to one's advantage
-to one's cost
-to one's credit
-to one's heart
-to one's heart's content
-to one's mind
-to one's name
-to one's surprise
-to one's taste
+to one
 to ones hearts content
 to oneself
 to oppose
@@ -5710,7 +5669,6 @@ to pass a bill
 to pass an examination
 to pass the ball
 to pay
-to pay (in) cash
 to peck
 to pedal
 to peddle munitions
@@ -5733,10 +5691,10 @@ to postpone
 to postpone delivery
 to precipitate
 to prefabricate
-to present a bouquet (a basket of flowers) to ...
+to present a bouquet
 to present on the stage
-to present one's credentials
-to proceed to take up one's post
+to present one
+to proceed to take up one
 to produce
 to programme
 to promulgate a law
@@ -5747,7 +5705,7 @@ to prune
 to put it simply
 to put off
 to put on a play
-to put one's foot down
+to put one
 to queue up for tickets
 to radiotelegraph
 to raise
@@ -5767,7 +5725,7 @@ to repeat a year
 to request the consent of...
 to resume charge of the office
 to resume diplomatic relations
-to return to one's post
+to return to one
 to review the guard of honour
 to revise
 to ride a bicycle
@@ -5781,7 +5739,7 @@ to safeguard national sovereignty and national resources
 to safeguard world peace
 to say nothing of
 to say the least
-to sb's credit
+to sb
 to scale
 to scan
 to score a goal
@@ -5806,12 +5764,7 @@ to sneeze
 to solve disputes by peaceful means
 to some degree
 to some extent
-to someone's advantage
-to someone's astonishment
-to someone's credit
-to someone's heart's content
-to someone's joy
-to someone's surprise
+to someone
 to sow
 to spare
 to speak of
@@ -5843,8 +5796,8 @@ to take lessons
 to take note of...
 to take off
 to take the floor
-to take to one's bed
-to take up a (the) matter with
+to take to one
+to take up a
 to taste
 to taxi along
 to teach
@@ -5973,7 +5926,6 @@ tocopherol
 tocsin
 tod
 today
-today's special
 toddel
 toddies
 toddle
@@ -6728,7 +6680,7 @@ touch off
 touch on
 touch out
 touch paper
-touch someone's heart
+touch someone
 touch tone
 touch up
 touch upon
@@ -7686,15 +7638,12 @@ travel-stained
 travel-time
 traveled
 traveler
-traveler's check
 travelers
 traveling
 traveling bag
 traveling salesman
 travelled
 traveller
-traveller's check
-traveller's cheque
 travellers
 travelling
 travelling bag
@@ -8741,11 +8690,10 @@ try doing
 try for
 try in
 try on
-try one's best
-try one's fortune
+try one
 try out
 try out for
-try someone's best
+try someone
 try square
 try to
 try to do something
@@ -9107,7 +9055,7 @@ turing
 turio
 turion
 turista
-turk's-head
+turk
 turkestan
 turkey
 turkeys
@@ -9123,7 +9071,6 @@ turmeric
 turmerol
 turmoil
 turn
-turn (somebody) off
 turn a blind eye
 turn a blind eye to
 turn a deaf ear
@@ -9146,8 +9093,7 @@ turn loose
 turn of the century
 turn off
 turn on
-turn one's back on
-turn one's back to
+turn one
 turn out
 turn out to
 turn out to be
@@ -9158,11 +9104,9 @@ turn over to
 turn right
 turn round
 turn signal
+turn someone
 turn someone in
 turn someone off
-turn someone's back on
-turn someone's back to
-turn someone's blood cold
 turn something down
 turn tail
 turn the clock back
@@ -9173,7 +9117,7 @@ turn the tide
 turn to
 turn turtle
 turn up
-turn up one's nose at
+turn up one
 turn up the heat
 turn up trumps
 turn upside down
@@ -9448,7 +9392,7 @@ twirp
 twist
 twist and turn
 twist drill
-twist someone's arm
+twist someone
 twistdrill
 twisted
 twisted pair
@@ -9480,7 +9424,7 @@ two birds with one stone
 two bits
 two can play at that game
 two heads are better than one
-two is company three's a crowd
+two is company three
 two lane
 two pairs
 two peas in a pod

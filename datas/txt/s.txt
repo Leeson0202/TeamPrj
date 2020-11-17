@@ -1,3 +1,4 @@
+S
 S-adenosyl methionine
 S-adenosylmethionine
 SA
@@ -182,7 +183,7 @@ Sabean
 Sabella
 Sabian
 Sabinal
-Sabouraud's agar
+Sabouraud
 Sabres
 Saccharomyces cerevisiae
 Sachse
@@ -499,7 +500,7 @@ Selby
 Selden
 Selena
 Selene
-Selenium(Se)
+Selenium
 Self-sacrifice
 Self-service
 Selina
@@ -735,16 +736,16 @@ Sikh
 Sikhs
 Silent contribution
 Siler
-Silicon(Si)
+Silicon
 Siliques
 Sillers
 Sills
 Silly Putty
 Silly money
 Silurian
+Silver
 Silver medal
 Silver screen
-Silver(Ag)
 Silvia
 Silybum
 Simeon
@@ -806,8 +807,8 @@ Sium
 Sivan
 Siwa
 Sixpack
+Sj
 Sjogren syndrome
-Sjögren's Syndrome
 Skagway
 Skall
 Skanda
@@ -1029,7 +1030,7 @@ Sri Lanka
 Ssh
 St
 St Lawrence
-St Paul's Cathedral
+St Paul
 St.
 St. Louis
 Stacey
@@ -1201,7 +1202,7 @@ Sulfites
 Sullivan
 Sulphates
 Sulphites
-Sulphur(S)
+Sulphur
 Sum Insured
 Sumatra
 Sumer
@@ -1302,9 +1303,7 @@ Systemic Scleroderma
 Systems Adviser
 Systems Engineer
 Systems Operator
-S~
 s
-s&m
 sJm
 saanen
 sab
@@ -1547,7 +1546,6 @@ safrol
 safrole
 sag
 saga
-saga (river) novel
 sagacious
 sagaciously
 sagaciousness
@@ -1612,8 +1610,8 @@ sails
 sain
 sainfoin
 saint
-saint patrick's day
-saint valentine's day
+saint patrick
+saint valentine
 saintdom
 sainted
 sainthood
@@ -2462,10 +2460,9 @@ save for
 save from
 save money
 save on
-save one's breath
-save one's life
+save one
 save options
-save someone's life
+save someone
 save the day
 save time
 save up
@@ -3976,7 +3973,7 @@ second world war
 second-born
 second-choice
 second-class
-second-class stateroom (cabin)
+second-class stateroom
 second-degree
 second-guess
 second-hand
@@ -4179,7 +4176,7 @@ see someone through
 see stars
 see that
 see that...
-see the color of someone's money
+see the color of someone
 see the light of day
 see through
 see to
@@ -4231,7 +4228,7 @@ seeing that
 seek
 seek after
 seek for
-seek one's fortune
+seek one
 seek out
 seek refuge
 seek time
@@ -4639,7 +4636,6 @@ sella turcica
 sellable
 selle
 seller
-seller's market
 selling
 selling point
 selling price
@@ -4827,7 +4823,7 @@ send in
 send mail
 send off
 send on
-send one's love
+send one
 send out
 send out for
 send over
@@ -5272,10 +5268,10 @@ serve
 serve as
 serve for
 serve on
-serve one's turn
+serve one
 serve out
 serve right
-serve someone's turn
+serve someone
 serve time
 serve to
 serve up
@@ -5398,9 +5394,7 @@ set off for
 set off sth
 set on
 set on fire
-set one's heart on
-set one's mind on
-set one's mind to
+set one
 set oneself against
 set oneself up as
 set out
@@ -5488,8 +5482,8 @@ settle in
 settle into
 settle on
 settle on something
-settle one's account
-settle someone's account
+settle one
+settle someone
 settle up
 settled
 settledown
@@ -5752,7 +5746,7 @@ shake head
 shake off
 shake off poverty
 shake out
-shake sb's hand
+shake sb
 shake up
 shake-out
 shake-up
@@ -5829,7 +5823,7 @@ shampoos
 shamrock
 shams
 shamus
-shan't
+shan
 shandies
 shandong
 shandrydan
@@ -5905,7 +5899,6 @@ sharif
 sharing
 shark
 shark fin
-shark's fin
 sharked
 sharker
 sharking
@@ -5927,7 +5920,7 @@ sharp-tongued
 sharp-witted
 sharped
 sharpen
-sharpen one's knife for sb.
+sharpen one
 sharpen up
 sharpened
 sharpener
@@ -5976,9 +5969,6 @@ shawm
 shawny
 shazam
 she
-she'd
-she'll
-she's
 she-cat
 she-wolf
 shea
@@ -6024,7 +6014,7 @@ shed tears
 shedder
 shedding
 sheds
-sheehan's syndrome
+sheehan
 sheel
 sheen
 sheena
@@ -6147,8 +6137,6 @@ shenyang
 shenzhen
 shepherd
 shepherd dog
-shepherd's pie
-shepherd's-purse
 shepherdess
 shepherds
 sherardize
@@ -6305,7 +6293,6 @@ ship chandler
 ship of the line
 ship off
 ship out
-ship's papers
 shipboard
 shipbreaker
 shipbuilder
@@ -6501,7 +6488,7 @@ shoot out
 shoot the bull
 shoot the moon
 shoot up
-shoot-'em-up
+shoot-
 shoot-on-sight tactics
 shoot-out
 shooter
@@ -6601,7 +6588,6 @@ short term loan
 short ton
 short trousers
 short wave
-short(film)
 short-change
 short-circuit
 short-cut
@@ -6712,7 +6698,7 @@ shouldered
 shouldering
 shoulders
 shouldest
-shouldn't
+shouldn
 shouldst
 shout
 shout at
@@ -7280,7 +7266,7 @@ signal
 signal box
 signal corps
 signal for blocking the track
-signal light (lamp)
+signal light
 signal tower
 signal-to-noise
 signaled
@@ -7295,7 +7281,6 @@ signaller
 signalling
 signally
 signalman
-signalman's cabin
 signalment
 signals
 signatary
@@ -7672,7 +7657,7 @@ single header
 single lady
 single lane
 single lens reflex
-single line (track) rail
+single line
 single man
 single out
 single parent
@@ -7838,7 +7823,7 @@ sissu
 sissy
 sissyish
 sister
-sister of one's sister-in-law
+sister of one
 sister-german
 sister-in-law
 sisterhood
@@ -8682,10 +8667,10 @@ slip off
 slip out
 slip over
 slip road
-slip someone's mind
+slip someone
 slip stitch
 slip through
-slip through someone's fingers
+slip through someone
 slip up
 slip-on
 slip-on shoe
@@ -10297,7 +10282,6 @@ somedeal
 somehow
 somehow or other
 someone
-someone's
 someplace
 somersault
 somersaulted
@@ -10598,7 +10582,6 @@ sotted
 sottish
 sotto voce
 sou
-sou'wester
 souari
 soubise
 soubresaut
@@ -11046,7 +11029,7 @@ speak ill of
 speak in
 speak of
 speak of the devil
-speak one's mind
+speak one
 speak out
 speak to
 speak up
@@ -11491,7 +11474,7 @@ spiling
 spill
 spill blood
 spill into
-spill one's guts
+spill one
 spill out
 spill over
 spill the beans
@@ -11793,7 +11776,7 @@ spodosol
 spodumene
 spoil
 spoil for
-spoil someone's enjoyment
+spoil someone
 spoilage
 spoilation
 spoiled
@@ -12449,8 +12432,8 @@ sst
 st. bernard
 st. lucia
 st. petersburg
-st. vitus's dance
-st.-john's-wort
+st. vitus
+st.-john
 st.petersburg
 sta
 stab
@@ -12723,8 +12706,7 @@ stand guard
 stand in
 stand in a line
 stand in line
-stand in someone's path
-stand in someone's way
+stand in someone
 stand in the way
 stand in the way of
 stand in with
@@ -12736,8 +12718,8 @@ stand on one leg
 stand out
 stand over
 stand ready to
+stand someone
 stand someone in good stead
-stand someone's ground
 stand still
 stand the pace
 stand the test
@@ -13007,7 +12989,6 @@ state school
 state security
 state socialism
 state visit
-state's evidence
 state-of-the-art
 state-owned
 state-owned enterprise
@@ -13031,7 +13012,6 @@ staten island
 stater
 stateroom
 states
-states' rights
 stateside
 statesman
 statesmanlike
@@ -13395,7 +13375,7 @@ step forward
 step frame
 step in
 step into
-step into someone's shoes
+step into someone
 step into the breach
 step off
 step on
@@ -13926,7 +13906,6 @@ stone
 stone fire pot
 stone fruit
 stone head
-stone's throw
 stone-blind
 stone-cold
 stone-dead
@@ -13995,7 +13974,7 @@ stop payment
 stop press
 stop short
 stop short of
-stop sign(al)
+stop sign
 stop someone from doing something
 stop something in its tracks
 stop to do something
@@ -14436,7 +14415,7 @@ stressor
 stretch
 stretch limo
 stretch mark
-stretch one's hand
+stretch one
 stretch out
 stretch up
 stretchable
@@ -14528,7 +14507,7 @@ strike out
 strike pay
 strike picket
 strike price
-strike something into someone's heart
+strike something into someone
 strike up
 strike while the iron is hot
 strike zone
@@ -14726,7 +14705,7 @@ strung
 strung out
 strunt
 strut
-strut one's stuff
+strut one
 struthio
 struthious
 struts
@@ -14781,7 +14760,6 @@ student loan
 student teacher
 student union
 students
-students' autonomy
 studied
 studiedly
 studies
@@ -17127,7 +17105,6 @@ swim bladder
 swim ring
 swim suit
 swimmer
-swimmer's pool
 swimmers
 swimmily
 swimming
@@ -17204,7 +17181,6 @@ swishing
 swishy
 swiss cheese
 switch
-switch (box)
 switch back
 switch cabinet
 switch clip

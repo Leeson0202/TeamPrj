@@ -1,3 +1,4 @@
+
 C
 C clef
 C flat
@@ -297,7 +298,7 @@ Cadets
 Cadillac
 Cadiz
 Cadmean
-Cadmium(Cd)
+Cadmium
 Cadra
 Cadres
 Cadwell
@@ -320,7 +321,7 @@ Calamar
 Calamintha
 Calamites
 Calcarius
-Calcium(Ca)
+Calcium
 Calder
 Caldwell
 Cale
@@ -454,8 +455,8 @@ Caracas
 Caranx
 Carassius
 Carbide bit
+Carbon
 Carbon Steel
-Carbon(C)
 Carbonari
 Carbonaro
 Carbonyls
@@ -648,7 +649,7 @@ Cercopithecidae
 Cercopithecus
 Ceres
 Cerithium
-Cerium(Ce)
+Cerium
 Cerruti 1881
 Certhia
 Certified Public Accountant
@@ -718,7 +719,7 @@ CharcotBoychard aneurysm
 Chardon
 Chardonnay
 Chares
-Charge d'Affaires ad Interim
+Charge d
 Chargers
 Charis
 Chariton
@@ -799,9 +800,7 @@ Chicos
 Chief Announcer
 Chief Judge
 Chiggers
-Children's Day
-Childrens Day
-Childrens chair
+Children
 Childress
 Chile
 Chiles
@@ -860,7 +859,7 @@ Chivas
 Chloe
 Chloral Hydrate
 Chlorides
-Chlorine(Cl)
+Chlorine
 Chloris
 Chlorophyceae
 Chlorophylls
@@ -908,7 +907,7 @@ Chromatic Boots
 Chromatic Cloak
 Chromatically Tempered Sword
 Chromis
-Chromium(Cr)
+Chromium
 Chronic kidney disease
 Chronic obstructive pulmonary disease
 Chronic subdural hematoma
@@ -996,7 +995,7 @@ Clemmie
 Clemson
 Cleo
 Cleopatra
-Clerk Typist & Secretary
+Clerk Typist
 Clerk of the Court
 Cleveland
 Cleves
@@ -1037,7 +1036,7 @@ Coala
 Coates
 Coatis
 Coaxial Cable
-Cobalt(Co)
+Cobalt
 Cobb
 Cobbs
 Cobham
@@ -1145,12 +1144,12 @@ Commercial Invoice
 Commercial loan
 Commies
 Commissioner General
-Committee of Twenty(Paris Club)
+Committee of Twenty
 Commodity Inspection Bureau
 Common residence
 Commonwealth Bank of Australia
 Commonwealth Preference Area
-Communaute Economique de l'Afrique de l'Ouest
+Communaute Economique de l
 Communist Party
 Communists
 Comoros
@@ -1187,7 +1186,7 @@ Conditioners
 Condon
 Condylura
 Conelrad
-Conference of Developing Countries (the 77-nation group)
+Conference of Developing Countries
 Conference of Heads of State and Government of East and Central African Countries
 Conference of Heads of State and Government of Non-Aligned Countries
 Confucian
@@ -1204,7 +1203,7 @@ Conies
 Coniferae
 Conjured Sweet Roll
 Conley
-Conn's syndrome
+Conn
 Connecticut
 Connell
 Conners
@@ -1271,7 +1270,7 @@ Copland
 Copley
 Coppel
 Coppell
-Copper(Cu)
+Copper
 Copperfield
 Coppin
 Coprinus
@@ -1546,7 +1545,6 @@ c-section
 c.
 cPVP
 ca
-ca'canny
 ca-ca
 cab
 cab driver
@@ -1755,6 +1753,7 @@ caesurae
 caesural
 caesuras
 caesuric
+caf
 cafe
 cafe au lait
 cafe noir
@@ -1769,8 +1768,6 @@ caffein
 caffeine
 caffer
 caftan
-café au lait spots
-café-au-lait spot
 cage
 caged
 cageling
@@ -2207,7 +2204,6 @@ came up
 camel
 camel hair
 camel hair cloth
-camel's hair
 cameleer
 camelhair
 camelia
@@ -2316,14 +2312,6 @@ can not help
 can only
 can opener
 can you
-can't
-can't afford to
-can't help
-can't help but do something
-can't help doing something
-can't stand
-can't wait
-can't wait to do something
 can-can
 can-do
 cana
@@ -3439,8 +3427,7 @@ carton
 cartoning
 cartons
 cartoon
-cartoon (film)
-cartoon k'tun] n.
+cartoon k
 cartooned
 cartooning
 cartoonist
@@ -3560,7 +3547,7 @@ cash down
 cash flow
 cash in
 cash in on
-cash in one's chips
+cash in one
 cash offer
 cash on deliver
 cash on hand
@@ -3586,7 +3573,6 @@ cashes
 cashew
 cashew nut
 cashier
-cashier's check
 cashiered
 cashiering
 cashiers
@@ -3733,9 +3719,6 @@ casus
 cat
 cat burglar
 cat gold
-cat's-ear
-cat's-eye
-cat's-paw
 cata
 cata-
 catabiotic
@@ -3844,16 +3827,13 @@ catch off
 catch on
 catch on fire
 catch on to
-catch one's breath
-catch one's eye
+catch one
 catch out
-catch sb's eye
-catch sb.'s eye
+catch sb
+catch sb.
 catch sight of
+catch someone
 catch someone off guard
-catch someone's attention
-catch someone's breath
-catch someone's eye
 catch the eye
 catch up
 catch up in
@@ -3865,8 +3845,6 @@ catchable
 catchall
 catchbasin
 catcher
-catcher's box
-catcher's mask
 catches
 catchfly
 catchier
@@ -4385,7 +4363,6 @@ censer
 censes
 censing
 censor
-censor's certificate
 censored
 censorial
 censoring
@@ -5008,9 +4985,9 @@ change into
 change of heart
 change of life
 change of pace
-change one's mind
+change one
 change over
-change someone's mind
+change someone
 change to
 change up
 change-up
@@ -5151,7 +5128,7 @@ charge account
 charge at
 charge card
 charge carrier
-charge d'affaires
+charge d
 charge for
 charge into
 charge nurse
@@ -5497,7 +5474,6 @@ cheesing
 cheesy
 cheetah
 chef
-chef's special
 chefs
 cheilitis
 cheiloplasty
@@ -5553,7 +5529,6 @@ chemism
 chemisorb
 chemisorption
 chemist
-chemist's
 chemistries
 chemistry
 chemists
@@ -5826,7 +5801,6 @@ child murder
 child prodigy
 child rearing
 child support
-child's play
 child-rearing
 childbearing
 childbed
@@ -5848,7 +5822,6 @@ childminder
 childminding
 childproof
 children
-children's palace
 chilean
 chili
 chili dog
@@ -6829,7 +6802,6 @@ circuitry
 circuits
 circuity
 circular
-circular (letter)
 circular cylinder
 circular note
 circular saw
@@ -7181,7 +7153,7 @@ clansmen
 clap
 clap eyes on
 clap hands
-clap one's hands
+clap one
 clapboard
 clapboards
 clapham
@@ -7369,7 +7341,6 @@ clean-shaven
 clean-up
 cleaned
 cleaner
-cleaner's
 cleaners
 cleanest
 cleaning
@@ -7762,7 +7733,6 @@ close encounter
 close in
 close in on
 close in upon
-close in(on)
 close off
 close on
 close out
@@ -7772,7 +7742,7 @@ close quarters
 close season
 close shave
 close shot
-close someone's ears to
+close someone
 close the books
 close to
 close to the vest
@@ -8049,7 +8019,6 @@ coach
 coach wheel
 coached
 coacher
-coacher's box
 coaches
 coaching
 coachload
@@ -9113,7 +9082,6 @@ combinative
 combinatorial
 combinatory
 combine
-combine (harvester)
 combine harvester
 combine with
 combined
@@ -9197,7 +9165,7 @@ come into operation
 come into play
 come into power
 come into sight
-come into someone's own
+come into someone
 come into the market
 come into use
 come into view
@@ -9206,12 +9174,12 @@ come of age
 come off
 come off duty
 come off it
-come off one's high horse
+come off one
 come on
 come on strong
 come on the scene
 come on to
-come one's way
+come one
 come out
 come out of
 come out on top
@@ -9251,8 +9219,7 @@ come to naught
 come to no harm
 come to nothing
 come to nought
-come to one's sense
-come to one's senses
+come to one
 come to oneself
 come to pass
 come to power
@@ -9260,10 +9227,7 @@ come to realize
 come to rest
 come to see
 come to sense
-come to someone's aid
-come to someone's mind
-come to someone's rescue
-come to someone's senses
+come to someone
 come to term
 come to terms
 come to terms with
@@ -9436,7 +9400,7 @@ commercial bill
 commercial break
 commercial building
 commercial channels
-commercial counsellor's office
+commercial counsellor
 commercial establishment
 commercial law
 commercial paper
@@ -9543,7 +9507,7 @@ common denominator
 common divisor
 common equity
 common factor
-common fibular(peroneal) nerve
+common fibular
 common fraction
 common gender
 common ground
@@ -10552,7 +10516,7 @@ confining
 confirm
 confirm an order
 confirm in
-confirm someone's prejudices
+confirm someone
 confirm to
 confirmation
 confirmative
@@ -11180,7 +11144,6 @@ consumer spending
 consumerism
 consumerist
 consumers
-consumers' association
 consumes
 consuming
 consumingly
@@ -11723,7 +11686,7 @@ cooey
 coof
 cooing
 cook
-cook someone's goose
+cook someone
 cook the books
 cook up
 cook-in
@@ -11758,7 +11721,7 @@ cool color
 cool down
 cool it
 cool off
-cool one's heels
+cool one
 cool-headed
 coolant
 cooldown
@@ -12676,7 +12639,7 @@ cotton-padded clothes
 cottoned
 cottoning
 cottonmouth
-cottonpickin'
+cottonpickin
 cottons
 cottonseed
 cottonseed oil
@@ -12719,15 +12682,13 @@ could modal
 could not help
 could you put me through to...
 coulda
-couldn't
-couldn't help
+couldn
 couldst
 coulee
 coulis
 coulisse
 couloir
 coulomb
-coulomb's law
 coulombic
 coulometer
 coulter
@@ -12943,7 +12904,7 @@ country cousin
 country dance
 country house
 country music
-country of one's residence
+country of one
 country road
 country-and-western
 countryfied
@@ -12964,7 +12925,7 @@ county seat
 county town
 countywide
 coup
-coup d'etat
+coup d
 coup de grace
 coupe
 couping
@@ -12995,7 +12956,6 @@ courgette
 courier
 courlan
 course
-course (of study)
 course book
 course of action
 course of bricks
@@ -14044,7 +14004,7 @@ cross infection
 cross multiply
 cross my heart
 cross off
-cross one's heart
+cross one
 cross out
 cross over
 cross pass
@@ -14182,8 +14142,6 @@ crouton
 croutons
 crow
 crow over
-crow's nest
-crow's-feet
 crowbar
 crowbars
 crowberry
@@ -14370,8 +14328,7 @@ cry down
 cry for
 cry for the moon
 cry off
-cry one's eyes out
-cry one's heart out
+cry one
 cry out
 cry out against
 cry out for
@@ -15118,11 +15075,11 @@ cut out
 cut out for
 cut price
 cut short
-cut someone's losses
+cut someone
 cut something down
 cut something out of something
 cut the Gordian knot
-cut the ground from under someone's feet
+cut the ground from under someone
 cut the line
 cut the mustard
 cut throat

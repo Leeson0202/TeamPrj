@@ -10,10 +10,6 @@ I suppose so
 I take the view that
 I want to break free
 I will always stay here by your side
-I'll
-I'm
-I'm afraid
-I'm sorry
 I-display
 I-shape cursor
 I/O
@@ -155,7 +151,6 @@ ITTA
 ITU
 ITU-T
 IUD
-IUD (intrauterine device)
 IV
 IVA
 IVECO
@@ -250,7 +245,7 @@ Indianan
 Indianapolis
 Indica
 Indio
-Indium(In)
+Indium
 Individual events
 Indonesia
 Indore
@@ -328,7 +323,7 @@ International Sales Staff
 International System of Units
 International Telecommunication Satellite Consortium
 International Union of Marine Insurance
-International Workers Day
+International Workers
 Internationale
 Internet
 Internet Control Message Protocol
@@ -344,7 +339,7 @@ Inuit
 Invalid parameter
 Inverse Address Resolution Protocol
 Invertebrata
-Iodine(I)
+Iodine
 Iodol
 Iodophors
 Iola
@@ -368,9 +363,9 @@ Irian
 Iridaceae
 Iring
 Irish
+Iron
 Iron Age
 Iron Curtain
-Iron(Fe)
 Iroquoian
 Iroquois
 Irtysh
@@ -445,7 +440,7 @@ Ize
 Izzie
 i agree
 i ching
-i don't know
+i don
 i guess
 i just made it
 i see
@@ -1314,7 +1309,7 @@ impactor
 impacts
 impaint
 impair
-impair someone's driving ability
+impair someone
 impaired
 impaired judgment
 impairer
@@ -1869,7 +1864,6 @@ in addition to
 in advance
 in advance of
 in agreement
-in agreement (with)
 in agreement with
 in aid of
 in alarm
@@ -2167,19 +2161,6 @@ in one piece
 in one sense
 in one way or another
 in one word
-in one's cups
-in one's eyes
-in one's favour
-in one's heart of hearts
-in one's honor
-in one's honour
-in one's mind's eye
-in one's opinion
-in one's own right
-in one's power
-in one's right mind
-in one's turn
-in one's way
 in ones opinion
 in oneself
 in operation
@@ -2269,11 +2250,7 @@ in row
 in rows
 in ruins
 in safety
-in sb's debt
-in sb's hands
-in sb's pocket
-in sb's presence
-in sb's shoes
+in sb
 in school
 in search for
 in search of
@@ -2306,17 +2283,7 @@ in some measure
 in some respects
 in some way
 in some ways
-in someone's favour
-in someone's free time
-in someone's honor
-in someone's honour
-in someone's opinion
-in someone's presence
-in someone's prime
-in someone's spare time
-in someone's turn
-in someone's view
-in someone's way
+in someone
 in space
 in spades
 in spite of
@@ -2559,7 +2526,7 @@ in tune with
 in turn
 in two
 in two minds
-in two shakes of a lamb's tail
+in two shakes of a lamb
 in uniform
 in unison
 in use
@@ -4547,7 +4514,7 @@ inspirational
 inspirator
 inspiratory
 inspire
-inspire someone's followers
+inspire someone
 inspire to
 inspire with
 inspired
@@ -4772,7 +4739,6 @@ intangibly
 intarsia
 integer
 integers
-integerwhole number
 integrability
 integrable
 integral
@@ -6250,7 +6216,6 @@ islet amyloid polypeptide
 islets of langerhans
 ism
 isn
-isn't
 iso-
 isoagglutination
 isoagglutinin
@@ -6440,7 +6405,7 @@ isthmuses
 istle
 it
 it appears that
-it doesn't matter
+it doesn
 it follows that
 it goes without saying
 it goes without saying that
@@ -6454,12 +6419,6 @@ it seems
 it sounds great
 it stands to reason that
 it takes two to tango
-it'll
-it's
-it's about time
-it's engaged
-it's my pleasure
-it's time to
 ita
 itaconic
 italia

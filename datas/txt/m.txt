@@ -222,7 +222,7 @@ Magicians
 Magna
 Magna Carta
 Magnes
-Magnesium(Mg)
+Magnesium
 Magness
 Magnolias
 Magog
@@ -324,7 +324,7 @@ Mandingos
 Maneh
 Manequin
 Mangan
-Manganese(Mn)
+Manganese
 Mangels
 Mangers
 Mangham
@@ -657,7 +657,7 @@ Memorandum of Understanding
 Memoria
 Memorial Day
 Memphis
-Men's wear
+Men
 Mena
 Menard
 Menasha
@@ -691,7 +691,6 @@ Mercedes
 Mercedes-Benz
 Mercurialis
 Mercury
-Mercury(Hg)
 Merer
 Meres
 Mergus
@@ -939,7 +938,7 @@ Molls
 Molluscoidea
 Moloch
 Molotov cocktail
-Molybdenum(Mo)
+Molybdenum
 Mombasa
 Momi
 Momos
@@ -1069,8 +1068,8 @@ Mostly Sunny
 Mostra
 Motas
 Motes
+Mother
 Mother Earth
-Mother's Day
 Motifs
 Motion Blur
 Moton
@@ -1136,7 +1135,7 @@ Multipliers
 Multipurpose Internet Mail Extensions
 Multisim
 Mumbai
-Munchausen's syndrome
+Munchausen
 Muncy
 Mund
 Munda
@@ -1159,7 +1158,7 @@ Mures
 Muricidae
 Muridae
 Muriel
-Murphy's Law
+Murphy
 Murphys
 Murr
 Murray
@@ -1217,7 +1216,7 @@ m1
 m2
 m3
 mEq
-ma'am
+ma
 maalox
 maam
 maar
@@ -1671,7 +1670,6 @@ maimer
 maiming
 maims
 main
-main (fuel) tank
 main airport
 main body
 main branch
@@ -1740,8 +1738,7 @@ maisonette
 maisonnette
 maist
 maitre
-maitre d'
-maitre d'hotel
+maitre d
 maize
 maize cob
 maja
@@ -1837,8 +1834,8 @@ make a note
 make a note of
 make a pass
 make a pass at
+make a pig
 make a pig of oneself
-make a pig's ear of
 make a plan for
 make a point
 make a point of
@@ -1961,13 +1958,8 @@ make of
 make off
 make off with
 make on
+make one
 make one tick
-make one's bed
-make one's mark
-make one's own way
-make one's point
-make one's way
-make one's way to
 make oneself at home
 make oneself scarce
 make oneself understood
@@ -1991,22 +1983,16 @@ make room for
 make room for sb.
 make room for someone
 make sail
-make sb's hair stand on end
+make sb
 make sb. feel at home
 make sense
 make sense for
 make sense of
 make shift
 make short work of
+make someone
 make someone feel at home
 make someone welcome
-make someone's acquaintance
-make someone's fortune
-make someone's mark
-make someone's own decision
-make someone's own way
-make someone's way
-make someone's way to
 make something a practice
 make something do
 make something out
@@ -2036,10 +2022,9 @@ make unremitting efforts
 make up
 make up for
 make up of
-make up one's mind
-make up one's mind to do
+make up one
 make up ones mind
-make up someone's mind
+make up someone
 make up to
 make up with
 make up your mind
@@ -2680,7 +2665,6 @@ manufacture from
 manufactured
 manufactured goods
 manufacturer
-manufacturer's price
 manufacturers
 manufactures
 manufacturing
@@ -2807,7 +2791,6 @@ marcor
 marcottage
 marduk
 mare
-mare's nest
 maremma
 maremme
 marena
@@ -3256,7 +3239,6 @@ master race
 master reset
 master sergeant
 master slave
-master's degree
 master-at-arms
 mastercard
 masterclass
@@ -3582,7 +3564,7 @@ mayhap
 mayhaw
 mayhem
 maying
-mayn't
+mayn
 maynard
 mayo
 mayonnaise
@@ -3624,7 +3606,7 @@ mbira
 mca
 mccarthyist
 mccoy
-mcdonald's
+mcdonald
 mcg
 mckenney
 mcluhanesque
@@ -3978,11 +3960,9 @@ meerschaum
 meet
 meet by chance
 meet halfway
-meet one's end
-meet one's need
+meet one
+meet someone
 meet someone in person
-meet someone's expectations
-meet someone's needs
 meet the demand
 meet the demand of
 meet the eye
@@ -4288,8 +4268,6 @@ memos
 memsahib
 men
 men of letters
-men's room
-men's singles
 menaccanite
 menace
 menaced
@@ -4304,14 +4282,14 @@ menagerie
 menarche
 menat
 mend
-mend one's ways
+mend one
 mendable
 mendacious
 mendaciously
 mendacities
 mendacity
 mended
-mendel's law
+mendel
 mendelevium
 mendelian
 mendelism
@@ -5527,7 +5505,6 @@ millenniums
 milleped
 millepede
 miller
-miller's-thumb
 millerite
 millesimal
 millet
@@ -5652,12 +5629,11 @@ minces
 mincing
 mincingly
 mind
-mind one's own business
+mind one
 mind reader
 mind reading
 mind set
 mind you
-mind's eye
 mind-blowing
 mind-boggling
 mind-numbing
@@ -5683,7 +5659,6 @@ mined
 minefield
 minelayer
 miner
-miner's lamp
 mineral
 mineral butter
 mineral oil
@@ -5785,7 +5760,6 @@ minimizes
 minimizing
 minimum
 minimum fare
-minimum fare (of a taxi)
 minimum price
 minimum wage
 minimums
@@ -6300,7 +6274,7 @@ misrules
 misruling
 miss
 miss doing
-miss one's aim
+miss one
 miss out
 miss out on
 miss the boat
@@ -7018,7 +6992,7 @@ money
 money ball
 money belt
 money box
-money burns a hole in one's pocket
+money burns a hole in one
 money clip
 money down
 money for jam
@@ -7032,7 +7006,6 @@ money supply
 money talks
 money to burn
 money worship
-money's worth
 money-box
 money-maker
 money-oriented
@@ -8674,7 +8647,6 @@ music score
 music stand
 music video
 musical
-musical (comedy)
 musical box
 musical chairs
 musical comedy
@@ -8762,7 +8734,7 @@ mustier
 mustiest
 mustily
 mustiness
-mustn't
+mustn
 musty
 mut
 mutability
@@ -8880,7 +8852,7 @@ my pleasure
 my treasure
 my treat
 my uncle
-my uncle on my mother's side
+my uncle on my mother
 myalgia
 myalgic
 myasis

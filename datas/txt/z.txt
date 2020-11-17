@@ -5,7 +5,7 @@ ZAO
 ZE
 ZIF
 ZOA
-ZPG (zero population growth)
+ZPG
 ZUG
 Zaar
 Zacco
@@ -68,7 +68,7 @@ Zim
 Zimbabwe
 Zimmerman
 Zina
-Zinc(Zn)
+Zinc
 Zingara
 Zingari
 Zingaro
@@ -215,7 +215,7 @@ zendo
 zener
 zenith
 zenithal
-zenker's diverticulum
+zenker
 zeolite
 zeolites
 zeolitic

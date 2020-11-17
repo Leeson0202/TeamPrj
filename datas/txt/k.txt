@@ -2,7 +2,7 @@ K
 K-sparing diuretics
 K2
 KAM
-KAP (knowledge-attitude-practice)
+KAP
 KAVAS
 KB
 KBps
@@ -250,9 +250,9 @@ Kinard
 Kincaid
 Kinde
 Kinetins
+King
 King Crab
 King Kong
-King's English
 Kinglets
 Kingman
 Kingmax
@@ -269,7 +269,7 @@ Kir
 Kirby
 Kirghiz
 Kirkland
-Kirkpatrick's four level model of evaluation
+Kirkpatrick
 Kirks
 Kiron
 Kirsten
@@ -679,7 +679,7 @@ keep an open mind
 keep apart
 keep at
 keep at a distance
-keep at arm's length
+keep at arm
 keep at bay
 keep at it
 keep away
@@ -729,21 +729,7 @@ keep on at
 keep on doing
 keep on doing something
 keep on good terms
-keep one's balance
-keep one's distance
-keep one's end up
-keep one's finger on the pulse of something
-keep one's fingers crossed
-keep one's hair on
-keep one's head
-keep one's mind on
-keep one's nose clean
-keep one's own counsel
-keep one's powder dry
-keep one's promise
-keep one's shirt on
-keep one's temper
-keep one's word
+keep one
 keep oneself to oneself
 keep oneself warm
 keep order
@@ -759,18 +745,10 @@ keep score
 keep secret
 keep silence
 keep silent
+keep someone
 keep someone busy
 keep someone company
 keep someone posted
-keep someone's balance
-keep someone's cool
-keep someone's eyes on
-keep someone's eyes open
-keep someone's head
-keep someone's mind on
-keep someone's promise
-keep someone's temper
-keep someone's word
 keep something from
 keep something in mind
 keep something in order
@@ -1700,8 +1678,7 @@ know for sure
 know how
 know no bounds
 know of
-know one's place
-know one's stuff
+know one
 know someone by name
 know something inside out
 know sth. by heart

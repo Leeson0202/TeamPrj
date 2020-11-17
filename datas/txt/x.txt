@@ -33,7 +33,7 @@ Xchromosome
 Xe
 Xema
 Xenia
-Xenon(Xe)
+Xenon
 Xeon
 Xeres
 Xerox
@@ -140,7 +140,6 @@ xerostomia
 xerotic
 xerox subsidy
 xi
-xi'an
 xiamen
 xii
 xiii

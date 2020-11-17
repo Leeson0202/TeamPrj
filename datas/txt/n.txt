@@ -87,7 +87,7 @@ NOST
 NOTARY AND PUBLIC SECURITY
 NOWs
 NPC
-NPG (negative population growth)
+NPG
 NPR
 NREN
 NRT
@@ -188,7 +188,7 @@ National Committee
 National Council for US-China Trade
 National Day
 National Institutes of Health
-National People's Congress
+National People
 National city Bank of New York
 National treasure
 Nations
@@ -251,7 +251,7 @@ Neogen
 Neolithic
 Neolithic Age
 Neomys
-Neon(Ne)
+Neon
 Neonatal Respiratory Distress Syndrome
 Neopit
 Neosho
@@ -300,10 +300,6 @@ New Wave
 New World
 New Year
 New Year picture
-New Year's Day
-New Year's Eve
-New Year's resolution
-New Years Eve
 New York
 New York City
 New York Stock Exchange
@@ -339,7 +335,7 @@ Nicholls
 Nichols
 Nicholson
 Nichts
-Nickel(Ni)
+Nickel
 Nickles
 Nicodemus
 Nicola
@@ -395,11 +391,11 @@ No U Turn
 No Visitors
 No offense
 No question
-No way!
+No way
 No-holds-barred
 No.
 Noachian
-Noah's ark
+Noah
 Nobe
 Nobel Peace Prize
 Nobel Price
@@ -622,7 +618,6 @@ name it
 name of passenger
 name of trading country
 name tag
-name's
 name-calling
 name-drop
 name-dropping
@@ -935,7 +930,6 @@ nattily
 nattiness
 natty
 natural
-natural (sign)
 natural beauty
 natural calamities
 natural child
@@ -1083,9 +1077,8 @@ nce
 ncr
 nd
 ndjamena
+ne
 ne plus ultra
-ne'er
-ne'er-do-well
 neaf
 neap
 neaped
@@ -1250,7 +1243,7 @@ needlestone
 needlework
 needling
 needly
-needn't
+needn
 needs
 needs assessment
 needy
@@ -1813,7 +1806,7 @@ new south wales
 new style
 new trial
 new wine in old bottles
-new years's banquet
+new years
 new yorker
 new-found
 new-type
@@ -2152,7 +2145,7 @@ nin
 nina
 nincompoop
 nine
-nine days' wonder
+nine days
 nine times out of ten
 nine to five
 ninebark
@@ -2339,7 +2332,6 @@ no mean
 no message
 no more
 no more than
-no more(...)than
 no name
 no offence
 no one
@@ -2588,7 +2580,7 @@ non-ferrous
 non-fiction
 non-finite
 non-human
-non-interference in each other's internal affairs
+non-interference in each other
 non-interlaced
 non-intervention
 non-invasive
@@ -2615,7 +2607,7 @@ non-stop
 non-stop flight
 non-stop flight to
 non-surgically
-non-swimmer's pool
+non-swimmer
 non-transparent
 non-u
 non-union
@@ -2733,7 +2725,7 @@ nondurable
 none
 none but
 none of
-none of someone's business
+none of someone
 none of your business
 none other than
 none the less
@@ -3040,8 +3032,6 @@ noosing
 nopal
 nope
 nor
-nor'easter
-nor'wester
 nora
 norad
 noradrenaline
@@ -3212,7 +3202,7 @@ not impossible
 not in the least
 not know sb. from adam
 not least
-not let the grass grow under one's feet
+not let the grass grow under one
 not likely
 not long after
 not long ago

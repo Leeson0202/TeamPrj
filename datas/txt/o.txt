@@ -371,17 +371,15 @@ Oxfordshire
 Oximes
 Oxnard
 Oxonian
+Oxygen
 Oxygen Tank
-Oxygen(O)
 Oxyuris
 Oz
 Ozan
 Ozark
 Ozarks
 Ozona
-o'
-o'clock
-o'er
+o
 o.k.
 oa
 oad
@@ -1030,12 +1028,11 @@ of no consequence
 of no use
 of noble birth
 of note
-of one's own accord
+of one
 of ones own accord
 of school age
 of some kind
-of someone's own
-of someone's own accord
+of someone
 of sorts
 of the day
 of the essence
@@ -1071,8 +1068,7 @@ off hand
 off limits
 off line
 off load
-off one's feet
-off one's guard
+off one
 off peak
 off ramp
 off road
@@ -1095,7 +1091,7 @@ off the rack
 off the record
 off the shelf
 off the table
-off the top of someone's head
+off the top of someone
 off the track
 off the waggon
 off work
@@ -1391,11 +1387,10 @@ old master
 old money
 old password
 old people
-old people's home
 old saying
 old school
 old soldier
-old wives' tale
+old wives
 old-age pension
 old-fashioned
 old-line
@@ -1587,7 +1582,6 @@ omphaloskepsis
 omphalus
 omr
 on
-on (the, an) average
 on a basis of
 on a budget
 on a collision course
@@ -1688,26 +1682,10 @@ on no consideration
 on oath
 on occasion
 on offer
+on one
 on one hand
 on one level
 on one occasion
-on one's account
-on one's behalf
-on one's conscience
-on one's feet
-on one's guard
-on one's head
-on one's heels
-on one's honor
-on one's honour
-on one's mind
-on one's own
-on one's own account
-on one's own initiative
-on one's shoulders
-on one's toe
-on one's uppers
-on one's way to
 on ones guard
 on ones own account
 on order
@@ -1734,14 +1712,7 @@ on short notice
 on show
 on side
 on site
-on someone's behalf
-on someone's guard
-on someone's honour
-on someone's mind
-on someone's own
-on someone's side
-on someone's way
-on someone's way to
+on someone
 on speaking terms
 on stage
 on stilts
@@ -2006,9 +1977,6 @@ one time
 one too many
 one way or another
 one week
-one's number is up
-one's own flesh and blood
-one's own undoing
 one-act play
 one-acter
 one-address
@@ -2246,7 +2214,7 @@ open loop gain
 open market
 open mind
 open mouthed
-open one's heart
+open one
 open out
 open pit
 open plan
@@ -3249,6 +3217,7 @@ otitic
 otitis
 otitis externa
 otitis media
+oto
 oto-
 otoconite
 otocyst
@@ -3268,7 +3237,6 @@ otoscope
 otoscopy
 ototoxic
 ototoxicity
-oto~
 ottar
 ottava
 otter
@@ -3287,7 +3255,7 @@ ough
 ought
 ought to
 oughta
-oughtn't
+oughtn
 ouguiya
 oui
 ouija
@@ -3358,9 +3326,7 @@ out of luck
 out of mind
 out of necessity
 out of nowhere
-out of one's depth
-out of one's mind
-out of one's own pocket
+out of one
 out of order
 out of phase
 out of place
@@ -3378,7 +3344,7 @@ out of scale
 out of season
 out of shape
 out of sight
-out of someone's reach
+out of someone
 out of sorts
 out of spite
 out of step
@@ -3605,7 +3571,7 @@ outlays
 outleap
 outlearn
 outlet
-outlet for someone's energy
+outlet for someone
 outlie
 outlier
 outliers
@@ -3796,7 +3762,7 @@ outstares
 outstaring
 outstate
 outstay
-outstay one's welcome
+outstay one
 outstayed
 outstaying
 outstays
@@ -3912,7 +3878,7 @@ over easy
 over eat
 over hard
 over here
-over someone's head
+over someone
 over the border
 over the counter
 over the edge
@@ -4318,7 +4284,7 @@ overpays
 overpeer
 overpermissive
 overplay
-overplay one's hand
+overplay one
 overplayed
 overplaying
 overplays

@@ -147,7 +147,7 @@ Uralian
 Uralic
 Urals
 Uranian
-Uranium(U)
+Uranium
 Uranus
 Urbana
 Urbank
@@ -1041,8 +1041,7 @@ under lock and key
 under no circumstance
 under no circumstances
 under oath
-under one's breath
-under one's nose
+under one
 under par
 under pressure
 under protest
@@ -1053,7 +1052,7 @@ under seal
 under secretary
 under separate cover
 under siege
-under someone's breath
+under someone
 under the aegis of
 under the auspices of
 under the charge of
@@ -1320,7 +1319,6 @@ undersurface
 undertake
 undertaken
 undertaker
-undertaker's
 undertakes
 undertaking
 undertakings

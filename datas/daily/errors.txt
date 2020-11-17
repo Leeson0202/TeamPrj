@@ -1,61 +1,255 @@
-younger generation 1
-youngish 1
-youngster 1
-Zubird 2
-ZUG 1
-Zaim 1
-Zacco 1
-Zaman 1
-Zachariah 1
-ZE 1
-Zaleski 1
-ZPG (zero population growth) 1
-Zeins 1
-Zen 1
-Zenda 1
-Zerda 1
-Zia 1
-Zingaro 1
-Zion 1
-Zionism 1
-zanders 1
-zer 2
-zanza 1
-zanzibar 1
-zaptiah 1
-zaratite 1
-zastruga 1
-zeros 2
-zebrule 1
-zebulon 1
-zigs 2
-zeta 1
-zetta 1
-zeyherine 1
-zhejiang 1
-zibeth 1
-zigging 2
-zigged 1
-zikkurat 1
-zooerasty 2
-zippier 1
-zippo 1
-zirconia 1
-zoanthropy 1
-zoisite 1
-zokor 1
-zolpidem 1
-zoologic 1
-zoom-in 1
-zoomin 1
-zoomorphic 1
-zooparasite 1
-zoophily 1
-zorille 1
-zoster 1
-zounds 1
-zouave 1
-zygomatic bone 1
-zygomatic process 1
-zygomorphic 1
-zymose 1
+A.D 2
+ACTA 2
+AEO-9 2
+AIMI 2
+AM T-Storms 2
+ANU 2
+Abdal 2
+Achille 2
+Adoxa 2
+Agrostis 2
+Aguinaga 2
+Alopecurus 2
+Amaterasu 2
+Anatinae 2
+Aparel 2
+Aphek 2
+Apara 2
+Arcidae 2
+Arenaria 2
+AutoLISP 2
+Ayumi 2
+Azadirachta 2
+a lack of 1
+a multisensory experience 1
+abhenries 2
+abortus 1
+acknowledges 1
+acromion 1
+adapa 2
+adaptiveness 1
+adret 1
+advene 1
+adynamia 1
+ahura 2
+agraphic 1
+air bag 1
+air hydraulic jack 1
+airframe 1
+airworthy 1
+alae 1
+alimentary tract 1
+alit 1
+alizarine 1
+all kinds of 1
+all metal building 1
+alkaloidal 1
+allay 1
+allochthonous 1
+allonym 1
+alone 1
+alpenhorn 1
+alphabetic 1
+aluminium foil 1
+amalekite 1
+amateur 1
+amaranthin 1
+ambrose 1
+ambulated 1
+amnic 2
+amicus 1
+aminet 1
+ammonites 1
+amnioscopy 1
+amoeba 1
+amphi- 1
+amotion 1
+amplify 1
+amur 1
+amusement center 1
+an arm and a leg 1
+anachronism 1
+analgesic 1
+ancylus 2
+analogically 1
+anathematic 1
+anathemize 1
+anchorage pier 1
+and also 1
+angioneurotic 1
+aneurin 1
+aneurism 1
+aneurysmal 1
+angle float 1
+angle loads method 1
+angle of displacement 1
+angler 1
+anicteric 1
+animize 1
+anion 1
+anise 1
+anomala 2
+ansated 2
+annihilated 1
+annulus 1
+anoints 1
+answer 1
+answer back 1
+answer to 1
+ante chamber 1
+antediluvian 1
+anthropophagic 1
+anti-corruption 1
+anti-virus program 1
+antiarin 1
+anticipate 1
+antifoam additive 1
+antique shop 1
+antirusting agent 1
+antiques 1
+antis 1
+anubis 1
+ape hand 1
+apgar score 1
+aphid 1
+apholate 1
+aphony 1
+apocarpous 1
+apogamy 1
+apologies 1
+apparently 1
+appear in 1
+apoptosis 1
+appeasing 1
+appellor 1
+apprisal 2
+applausive 1
+appendixes 1
+appointive 1
+apprenticeship training 1
+apprising 1
+apprizes 1
+aranea 2
+appropriations 1
+approximate to 1
+apraxic 1
+appriser 1
+aquashow 1
+aquiform 1
+ar 1
+arbitrated 1
+arborous 1
+archangel 1
+arbitrate 1
+archimandrite 1
+architectural appearance 1
+archaeological 1
+area of rivet shaft 1
+arethusa 1
+argentum 1
+aria 1
+arkose 1
+aril 1
+armoury 1
+armpit hair 1
+article No. 2
+arraign 1
+arrear 1
+arresters 1
+arrestment 1
+arrhythmias 1
+arrow diagram 1
+arsis 1
+arrive at 1
+arthrosis 1
+articulated connection 1
+articles of association 1
+article number 1
+articulated locomotive 1
+as old as adam 1
+ascend to 1
+ascendance 1
+ascent 1
+as the crow flies 1
+ashpan 1
+ascetical 1
+asphalt concrete 1
+asphalt covering 1
+asphalt road 1
+aspired 1
+assamese 1
+assay 1
+assertiveness 1
+asterias 2
+assistant accountant 1
+association football 1
+aster 1
+astatic 1
+at a low ebb 1
+at midnight 1
+at the edge of 1
+at the hands of 1
+at the ready 1
+at the beach 1
+at the very start 1
+atavism 1
+atomise 1
+atomism 1
+atomist 1
+atopy 1
+attack time 1
+atrociously 1
+attentive 1
+au pair 1
+auction 1
+audio- 1
+audio frequency 1
+audiometric 1
+auf wiedersehen 1
+aught 1
+augmented reality 1
+aurally 1
+auscultatory 1
+auspicate 1
+austerely 1
+authorizes 1
+authorless 1
+authorship 1
+autistic 1
+auto loan 1
+autobiographic 1
+autobiographical 1
+autogenetic 1
+autograph 1
+autographs 1
+autogyro 1
+autoimmune 1
+automaton 1
+automobile factory 1
+autosomal recessive 1
+autostacker 1
+auxins 1
+auxotrophic 1
+avenues 1
+average bond stress 1
+average 1
+average inventory 1
+avenaceous 1
+avocados 1
+avocation 1
+average flow 1
+avowing 1
+avowry 1
+avs 1
+aviatress 1
+BBQ 1
+BAT file extension 1
+B-boy 1
+BB 1
+B-box 1
+BIOS 1
+BWO 1
+Balla 1
+Ballard 1
+Band-Aid 1
+Bandon 1

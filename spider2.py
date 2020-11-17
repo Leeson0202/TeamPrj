@@ -2,11 +2,12 @@ from __init__ import *
 import __init__
 import json
 import threading
+from bs4 import BeautifulSoup
+import time
 
 url_head_2 = "http://www.iciba.com/word?w="
 
 threadlock = threading.Lock()
-
 
 def handle(word, letter, percent, f_json, f_record, f_error, start):
     """
@@ -34,17 +35,18 @@ def handle(word, letter, percent, f_json, f_record, f_error, start):
             f_error.flush()
             return
         else:
-            word_spell, Mean_tag__2vGcf, clearfixs, sentences = __init__.MyBeautifulSoup(
+            spell, tag, clearfixs, sentences = __init__.MyBeautifulSoup(
                 soup=box.ul, rex=2)  # 进入spider 提取详细单词信息
-            if not word_spell:  # 如果提取失败 下一个单词
+            if not spell:  # 如果提取失败 下一个单词
                 return
             else:
-                theword = __init__.vocabulary(word_spell, Mean_tag__2vGcf, clearfixs, sentences)  # 创建单词对象
+                theword = __init__.Vocabulary(
+                    spell, tag, clearfixs, sentences)  # 创建单词对象
                 word_detail = json.dumps(theword.__dict__)  # 将单词对象 转化为json格式
 
                 # -----------------------------------------------储存数据
-                save(word_detail, letter, word, percent, f_json, f_record, start)
-
+                save(word_detail, letter, word,
+                     percent, f_json, f_record, start)
 
 def save(word_detail, letter, word, percent, f_json, f_record, start):
     pass
@@ -70,11 +72,13 @@ def save(word_detail, letter, word, percent, f_json, f_record, start):
             f_record.truncate()  # 清空
             try:
                 f_record.writelines(letter + '\n' + word + '\n')
-            except:
-                pass
+            except Exception as e:
+                print(e)
+
             f_record.flush()
     end = time.time()
-    print('\r{:>3.0f}%  {:>.1f}s  {}\t\t\t\t\t'.format(percent, end - start, word), end='')  # 显示进度
+    print('\r{:>3.0f}%  {:>.1f}s  {}\t\t\t\t\t'.format(
+        percent, end - start, word), end='')  # 显示进度
     threadlock.release()
 
 
@@ -115,30 +119,37 @@ def spider_2(path1=None, path2=None, letter=None, key_word=None, start=None):
             index = 0
     else:  # 否则初始化json文件 重新爬取
         f_json.truncate()  # 清空
-        f_error.truncate()  # 清空
         f_json.writelines('[]')  # 初始化 并保持
         f_json.flush()
-        f_error.flush()
+        if letter == 'a':
+            f_error.truncate()  # 清空
+            f_error.flush()
     word_list = word_list[index:]
 
     # ----------------------------------------------------------------------开始爬取详情部分:
+    if len(word_list)>0:
+        for i, word in enumerate(word_list):
+            percent = (i / len(word_list)) * 100  # 进度百分比
+            word = word.strip()  # 消去单词两端的空格
+            if not word:
+                continue
+            # handle(path2, word, letter,percent)
 
-    for i, word in enumerate(word_list):
-        percent = (i / len(word_list)) * 100  # 进度百分比
-        word = word.strip()  # 消去单词两端的空格
-        if not word:
-            continue
-        # handle(path2, word, letter,percent)
-
-        t = threading.Thread(target=handle, args=(word, letter, percent, f_json, f_record, f_error, start))
-        threads.append(t)
-    num = 30  # 设置的线程数
-    t = None
-    for i, t in enumerate(threads):
-        while len(threading.enumerate()) > num:
-            pass
-        try:
-            t.start()
-        except:
-            pass
-    t.join()
+            t = threading.Thread(target=handle, args=(
+                word, letter, percent, f_json, f_record, f_error, start))
+            threads.append(t)
+        num = 50  # 设置的线程数
+        t = None
+        for i, t in enumerate(threads):
+            while len(threading.enumerate()) > num:
+                pass
+            try:
+                t.start()
+            except:
+                pass
+        t.join()
+        f_json.close()
+        f_error.close()
+        f_record.close()
+    else:
+        return

@@ -191,11 +191,10 @@ Panama
 Panax
 Pance
 Panch
-Pancoast's tumor
+Pancoast
 Pandar
 Pandion
 Pandora
-Pandora's box
 Panes
 Pangea
 Panglossian
@@ -257,8 +256,6 @@ Parkesburg
 Parkia
 Parkinson
 Parkinson disease
-Parkinson's disease
-Parkinson's law
 Parkinsonia
 Parkman
 Parlin
@@ -409,10 +406,7 @@ Pentecostal
 Pentecostalism
 Pentecostalist
 Pentium Pro
-People's Bank of China
-People's Courts
-People's Tribunals
-People's procuratorates
+People
 Peoria
 Pepe
 Pepin
@@ -482,7 +476,7 @@ Petronia
 Petros
 Petter
 Peucedanum
-Peyer's patch
+Peyer
 Peytral
 Pfeifer
 Ph.D.
@@ -531,7 +525,7 @@ Phoenician
 Pholis
 Phonemes
 Phons
-Phosphorus(P)
+Phosphorus
 Photinia
 Photo processing
 Photoshop
@@ -646,7 +640,7 @@ Plastic operation
 Plasticine
 Platel
 Platin
-Platinum(Pt)
+Platinum
 Platon
 Platonism
 Platonistic
@@ -774,7 +768,7 @@ Postel
 Postgraduate student
 Postmaster General
 Postscripts
-Potassium(K)
+Potassium
 Poteet
 Poth
 Pothos
@@ -1020,7 +1014,7 @@ p.m.
 p.m. PM
 pH
 pH meter
-pa'anga
+pa
 pablo
 pablo picasso
 pablum
@@ -1069,7 +1063,6 @@ pacifying
 pacing
 pacinian corpuscle
 pack
-pack (of cards)
 pack a punch
 pack animal
 pack away
@@ -1133,7 +1126,7 @@ padding
 paddings
 paddle
 paddle boat
-paddle one's own canoe
+paddle one
 paddle steamer
 paddle wheel
 paddleball
@@ -2994,7 +2987,7 @@ pay in full
 pay incentive
 pay no attention to
 pay off
-pay one's way
+pay one
 pay out
 pay over the odds
 pay package
@@ -4898,7 +4891,6 @@ philosophaster
 philosophe
 philosopher
 philosophers
-philosophers' stone
 philosophic
 philosophical
 philosophically
@@ -5463,9 +5455,9 @@ pick on
 pick oneself up
 pick out
 pick over
-pick sb's brains
+pick sb
+pick someone
 pick someone up
-pick someone's brains
 pick something up
 pick to pieces
 pick up
@@ -5657,7 +5649,6 @@ pig bed
 pig farm
 pig iron
 pig out
-pig's knuckle
 pigboat
 pigeon
 pigeon chest
@@ -5827,7 +5818,6 @@ pilot scheme
 pilot study
 pilot system
 pilot whale
-pilot's cockpit
 pilotage
 piloted
 pilothouse
@@ -6225,9 +6215,6 @@ pitched
 pitched battle
 pitcher
 pitcher plant
-pitcher's circle
-pitcher's mound
-pitcher's plate
 pitchers
 pitches
 pitchfork
@@ -6750,7 +6737,7 @@ play hookey
 play hooky
 play host to
 play house
-play into sb.'s hands
+play into sb.
 play into the hands
 play it by ear
 play it safe
@@ -6762,7 +6749,7 @@ play off against
 play on
 play on the swing
 play on words
-play one's cards right
+play one
 play out
 play possum
 play safe
@@ -6770,7 +6757,7 @@ play second fiddle
 play second fiddle to
 play shallow
 play soccer
-play someone's part
+play someone
 play something by ear
 play sports
 play tennis
@@ -7009,7 +6996,7 @@ plier
 pliers
 plies
 plight
-plight one's troth
+plight one
 plighted
 plighting
 plights
@@ -7145,7 +7132,6 @@ plumbean
 plumbed
 plumbeous
 plumber
-plumber's mate
 plumberies
 plumbers
 plumbery
@@ -7168,7 +7154,6 @@ plumiest
 pluming
 plumlike
 plummer
-plummer's disease
 plummet
 plummet to
 plummeted
@@ -7446,7 +7431,6 @@ poind
 poinding
 poinsettia
 point
-point (box)
 point a finger at
 point at
 point blank
@@ -7518,7 +7502,7 @@ poke around
 poke at
 poke fun at
 poke nose into
-poke one's nose into
+poke one
 pokeberry
 poked
 poker
@@ -8130,7 +8114,6 @@ pop-up menu
 pop-up window
 popcorn
 pope
-pope's blessing
 popedom
 popelike
 popery
@@ -9764,7 +9747,7 @@ preservatives
 preservatory
 preserve
 preserve from
-preserve someone's integrity
+preserve someone
 preserved
 preserved bean curd
 preserved beancurd
@@ -10314,8 +10297,6 @@ printed circuit board
 printed matter
 printed word
 printer
-printer's devil
-printer's error
 printers
 printery
 printhead
@@ -10957,7 +10938,7 @@ prompt delivery
 promptbook
 prompted
 prompter
-prompters' box
+prompters
 promptest
 prompting
 promptitude
@@ -12088,14 +12069,14 @@ pull in
 pull into
 pull off
 pull on
-pull one's weight
+pull one
 pull oneself together
 pull out
 pull out all the stops
 pull out of
 pull out of the fire
 pull over
-pull someone's leg
+pull someone
 pull something down
 pull something off
 pull strings
@@ -12671,12 +12652,7 @@ put on an act
 put on hold
 put on trial
 put on weight
-put one's feet up
-put one's foot down
-put one's hands on
-put one's heads together
-put one's money where one's mouth is
-put one's shoulder to the wheel
+put one
 put option
 put our heads together
 put out
@@ -12690,14 +12666,12 @@ put pen to paper
 put pressure on
 put right
 put sb. on to
+put someone
 put someone down
 put someone on to
 put someone out to pasture
 put someone to death
 put someone up
-put someone's finger on
-put someone's foot in someone's mouth
-put someone's hands on
 put something away
 put something back
 put something down

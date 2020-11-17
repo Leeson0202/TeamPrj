@@ -347,7 +347,6 @@ Achillea
 Achilles
 Achilles heel
 Achilles tendon
-Achilles's tendon
 Achimenes
 Achras
 Achromycin
@@ -377,7 +376,7 @@ Acushnet
 Acute Disseminated Encephalomyelitis
 Acute Kidney Injury
 Adair
-Adam's apple
+Adam
 Adami
 Adamic
 Adamo
@@ -464,8 +463,8 @@ Afrikaans
 Afrikaner
 Afro
 Afro-
-Afro-Asian Journalists' Association
-Afro-Asian Writers' Association
+Afro-Asian Journalists
+Afro-Asian Writers
 After Death
 After date
 After sun
@@ -763,8 +762,8 @@ Alvira
 Alvo
 Always On My Mind
 Alytes
+Alzheimer
 Alzheimer disease
-Alzheimer's disease
 Alzheimers
 Am I in order?
 Amabel
@@ -816,7 +815,7 @@ Americanism
 Americanize
 Americanized
 Americanizing
-Americium(Am)
+Americium
 Americus
 Amerindian
 Amerindic
@@ -886,7 +885,7 @@ Ancient Scroll
 Ancram
 Andale
 Andalusian
-Andean Pact Organization (Andean group)
+Andean Pact Organization
 Andeans Common Market
 Andeans Treaty Organization
 Anderson
@@ -1055,7 +1054,7 @@ Application software
 Appling
 Apr
 April
-April Fools' Day
+April Fools
 April fish
 Aptenodytes
 Apter
@@ -1136,7 +1135,7 @@ Argentine
 Argentinian
 Argive
 Argoan
-Argon(Ar)
+Argon
 Argonauta
 Argonautic
 Argonauts
@@ -1194,7 +1193,7 @@ Arpin
 Arrey
 Arrhenius
 Arrobas
-Arsenic(As)
+Arsenic
 Arsenites
 Artas
 Artemia
@@ -1372,7 +1371,7 @@ AutoLISP
 Autocue
 Autoimmune Hepatitis
 Automated Teller machine
-Autonomous Regional People's Government
+Autonomous Regional People
 Autopsied
 Auxvasse
 Ava
@@ -1432,11 +1431,10 @@ a beam of light
 a big deal
 a big shot
 a bill of fare
+a bird
 a bird in the hand
 a bird in the hand is worth two in the bush
-a bird's eye view
 a bit
-a bit (of)
 a bit of
 a bite to eat
 a blanket of...
@@ -1573,7 +1571,7 @@ a huge number of
 a hundred and one
 a kick in the teeth
 a kind of
-a king's ransom
+a king
 a la
 a la carte
 a la mode
@@ -1666,7 +1664,7 @@ a repeat order
 a resurgence in popularity
 a rope of
 a rule of thumb
-a run for one's money
+a run for one
 a run of
 a rush of
 a scam
@@ -1706,7 +1704,7 @@ a spot of
 a square meal
 a status symbol
 a stitch in time
-a stone's throw
+a stone
 a storm in a teacup
 a stream of
 a stressful and time-consuming job
@@ -1748,7 +1746,7 @@ a whole lot of
 a wholesome diet
 a wide range of
 a wide variety of
-a wolf in sheep's clothing
+a wolf in sheep
 a-
 a-glucosidase inhibitor
 a.
@@ -2840,8 +2838,7 @@ achievers
 achieves
 achieving
 achillean
-achilles' heel
-achilles' tendon
+achilles
 achiness
 aching
 achingly
@@ -3360,7 +3357,6 @@ addend
 addenda
 addendum
 adder
-adder's-tongue
 adders
 addi
 addible
@@ -3374,7 +3370,7 @@ addiction
 addictive
 addicts
 adding
-addison's disease
+addison
 additament
 addition
 addition compound
@@ -3454,8 +3450,8 @@ adenosine
 adenosine deaminase
 adenosine monophosphate
 adenosine triphosphate
+adenosyl
 adenosylmethionine
-adenosyl~
 adenovirus
 adenyl
 adenylate
@@ -3830,7 +3826,6 @@ adustion
 adv
 adv.
 advance
-advance (payment)
 advance bill
 advance copy
 advance deposit
@@ -4116,7 +4111,6 @@ aeschylean
 aesculapius
 aesir
 aesop
-aesop's fables
 aesthesia
 aesthete
 aesthetes
@@ -4366,8 +4360,8 @@ again and again
 against
 against all odds
 against all the odds
-against one's will
-against someone's will
+against one
+against someone
 against the current
 against the grain
 against the law
@@ -4779,7 +4773,6 @@ aimlessly
 aimlessness
 aims
 ain
-ain't
 ainu
 aioli
 air
@@ -5519,7 +5512,7 @@ all night long
 all of
 all of a sudden
 all of sudden
-all one's life
+all one
 all out
 all outside air system
 all over
@@ -5540,10 +5533,10 @@ all right reserved
 all risk
 all risks
 all round
-all saints' day
+all saints
 all set
 all socket cross
-all someone's life
+all someone
 all sorts of
 all that
 all the best
@@ -8477,7 +8470,7 @@ apple
 apple brandy
 apple butter
 apple juice
-apple of someone's eye
+apple of someone
 apple pie
 apple polisher
 apple-pie
@@ -8516,7 +8509,6 @@ application of roofing felt
 application of solar energy
 application point
 application techniques
-application(for a job)
 applications
 applicative
 applicator
@@ -8536,10 +8528,10 @@ appliqued
 apply
 apply for
 apply for a job
-apply one's mind to
+apply one
 apply oneself
 apply oneself to
-apply someone's mind to
+apply someone
 apply something to something
 apply to
 applying
@@ -8696,7 +8688,6 @@ apricot flesh
 apricot pit
 apricots
 april fool
-april fool's day
 apriority
 apron
 apron string
@@ -9090,7 +9081,7 @@ areaway
 areca
 areca nut
 areic
-aren't
+aren
 arena
 arenaceous
 arenaceous sand
@@ -9450,7 +9441,6 @@ arrival time-table
 arrivals
 arrive
 arrive at
-arrive at (in) a place
 arrive at a conclusion
 arrive from
 arrive in
@@ -9723,7 +9713,7 @@ as far as
 as far as I am concerned
 as far as I know
 as far as one is concerned
-as far as someone's concerned
+as far as someone
 as far as something is concerned
 as far as we know
 as fit as a fiddle
@@ -9974,7 +9964,7 @@ ask for a lift
 ask for a ride
 ask for help
 ask for leave
-ask for someone's hand in marriage
+ask for someone
 ask for sth.
 ask for trouble
 ask no odds
@@ -10505,8 +10495,6 @@ asyndetic
 asyndeton
 asystole
 at
-at (the) best
-at (the) worst
 at a blow
 at a crossroads
 at a disadvantage
@@ -10518,7 +10506,7 @@ at a guess
 at a loose end
 at a loss
 at a low ebb
-at a moment's notice
+at a moment
 at a pinch
 at a premium
 at a price
@@ -10543,7 +10531,7 @@ at any one time
 at any price
 at any rate
 at any time
-at arm's length
+at arm
 at bat
 at bay
 at best
@@ -10557,7 +10545,7 @@ at daggers drawn
 at dark
 at dawn
 at daybreak
-at death's door
+at death
 at discretion
 at dusk
 at ease
@@ -10610,18 +10598,6 @@ at one stroke
 at one time
 at one time or another
 at one with
-at one's back
-at one's best
-at one's command
-at one's discretion
-at one's disposal
-at one's elbow
-at one's heels
-at one's leisure
-at one's own risk
-at one's service
-at one's wit's end
-at one's wits' end
 at ones convenience
 at ones own risk
 at ones wits end
@@ -10637,7 +10613,7 @@ at regular intervals
 at rest
 at rest earth pressure coefficient
 at risk
-at sb's disposal
+at sb
 at school
 at sea
 at service
@@ -10647,14 +10623,7 @@ at sight of
 at sixes and sevens
 at some point
 at some stage
-at someone's best
-at someone's convenience
-at someone's disposal
-at someone's fingertips
-at someone's heels
-at someone's mercy
-at someone's own pace
-at someone's service
+at someone
 at stake
 at sunrise
 at sunset
@@ -10688,7 +10657,7 @@ at the edge of
 at the eleventh hour
 at the end
 at the end of
-at the end of one's rope
+at the end of one
 at the end of the day
 at the expense
 at the expense of
@@ -10736,8 +10705,8 @@ at the time
 at the time of
 at the top
 at the top of
-at the top of one's lungs
-at the top of someone's voice
+at the top of one
+at the top of someone
 at the turn of
 at the very beginning of
 at the very least
@@ -10820,7 +10789,6 @@ atherosclerotic
 athetosis
 athirst
 athlete
-athlete's foot
 athletes
 athletic
 athletic field
@@ -11646,7 +11614,6 @@ auxesis
 auxetic
 auxiliaries
 auxiliary
-auxiliary (fuel) tank
 auxiliary bridge
 auxiliary hoist
 auxiliary prestressing

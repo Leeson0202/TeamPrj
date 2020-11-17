@@ -239,7 +239,7 @@ Barents
 Barger
 Bari
 Barillas
-Barium(Ba)
+Barium
 Barkers
 Barleduc
 Barmen
@@ -490,7 +490,7 @@ Bernstein
 Beroun
 Bertelsmann
 Bertie
-Beryllium(Be)
+Beryllium
 Bessemer
 Bessie
 Best practice
@@ -562,7 +562,7 @@ Biological clocks
 Bipolar mood disorder
 Birbeck granules
 Birch door
-Bird's Nest
+Bird
 Birk
 Birkin
 Birks
@@ -734,7 +734,7 @@ Bordet-Gengou agar
 Borel
 Borghese
 Boris
-Boron(B)
+Boron
 Borrelia
 Borup
 Bos taurus
@@ -900,7 +900,7 @@ Bries
 Briggs
 Brigid
 Brigue
-Brilliant idea!
+Brilliant idea
 Brin
 Brinell
 Brisbane
@@ -934,7 +934,7 @@ Brockton
 Brody
 Brokaw
 Brome
-Bromine(Br)
+Bromine
 Bromley
 Bromus
 Bronica
@@ -1113,8 +1113,8 @@ Bythesea
 Byz
 Byzantine
 Byzantinism
+b
 b box
-b&b
 b-picture
 baa
 baaed
@@ -1170,7 +1170,6 @@ baby kisser
 baby pink
 baby sister
 baby soap
-baby's-breath
 baby-blue
 baby-blue-eyes
 baby-doll
@@ -1214,8 +1213,6 @@ bachelor degree
 bachelor mother
 bachelor of arts
 bachelor of science
-bachelor's degree
-bachelor's-button
 bachelordom
 bachelorette
 bachelorette party
@@ -1259,7 +1256,7 @@ back of
 back off
 back office
 back on
-back on someone's feet
+back on someone
 back on track
 back order
 back out
@@ -1686,7 +1683,6 @@ balaam
 balaclava
 balalaika
 balance
-balance (sheet)
 balance beam
 balance due
 balance of payment
@@ -1866,7 +1862,6 @@ ballpark figure
 ballpen
 ballplayer
 ballpoint
-ballpoint (pen)
 ballpoint pen
 ballroom
 ballroom dance
@@ -2088,7 +2083,6 @@ banked
 banked up water level
 banker
 banker s bank
-banker's hours
 bankhead
 banking
 banking house
@@ -2463,7 +2457,6 @@ barrens
 barret
 barretry
 barrett
-barrett's esophagus
 barrette
 barricade
 barricade lantern
@@ -2849,7 +2842,6 @@ batter
 batter board
 batter down
 batter pile
-batter's box
 batter-runner
 battercake
 battered
@@ -3040,7 +3032,7 @@ be appointed ambassador to ...
 be appropriate for
 be apt to
 be around
-be as good as one's word
+be as good as one
 be ashamed of
 be assigned to
 be associated with
@@ -3067,7 +3059,7 @@ be aware that
 be away
 be away from
 be back
-be back on one's feet
+be back on one
 be bad for
 be banned from
 be barking up the wrong tree
@@ -3082,7 +3074,7 @@ be beneficial to
 be bent on
 be beside oneself
 be better off
-be beyond someone's means
+be beyond someone
 be big on
 be blamed for
 be blessed with
@@ -3224,7 +3216,7 @@ be done with
 be doomed to
 be dotted with
 be down and out
-be down on one's luck
+be down on one
 be down to
 be down with
 be dramatized by
@@ -3503,8 +3495,8 @@ be of the opinion
 be of the opinion that
 be off
 be off duty
-be off one's head
-be off someone's head
+be off one
+be off someone
 be off to
 be on
 be on a diet
@@ -3515,8 +3507,7 @@ be on edge
 be on fire
 be on good terms with
 be on guard
-be on one's back
-be on one's own
+be on one
 be on speaking terms
 be on the advance
 be on the drink
@@ -3543,7 +3534,7 @@ be out of danger
 be out of employment
 be out of order
 be out of service
-be out of someone's depth
+be out of someone
 be out of stock
 be out of style
 be out of use
@@ -4376,7 +4367,7 @@ beggar-my-neighbour
 beggar-ticks
 beggarly
 beggars
-beggars can't be choosers
+beggars can
 beggary
 begged
 begging
@@ -4458,11 +4449,11 @@ beheads
 beheld
 behemoth
 behest
-behidn sb's back
+behidn sb
 behind
 behind bars
 behind closed doors
-behind one's back
+behind one
 behind schedule
 behind the eight ball
 behind the lines
@@ -4540,7 +4531,7 @@ believe
 believe in
 believe it or not
 believe me
-believe someone's eyes
+believe someone
 believed
 believer
 believes
@@ -4562,7 +4553,6 @@ bell pepper
 bell pull
 bell ringer
 bell tower
-bell's palsy
 bell-bottom
 bell-shaped
 bella
@@ -4710,11 +4700,11 @@ benchmarks
 benchtop
 bend
 bend down
-bend one's knee to
+bend one
 bend over
 bend over backward
 bend over backwards
-bend someone's knee to
+bend someone
 bend test
 bend the rules
 bend to
@@ -4746,8 +4736,8 @@ bene-
 beneaped
 beneath
 beneath contempt
-beneath one's dignity
-beneath sb's dignity
+beneath one
+beneath sb
 benedicite
 benedick
 benediction
@@ -5075,7 +5065,7 @@ bestseller
 bestud
 bet
 bet on
-bet one's bottom dollar
+bet one
 beta
 beta activity
 beta angle
@@ -5400,7 +5390,7 @@ bidding document
 bidding war
 biddy
 bide
-bide one's time
+bide one
 bided
 bident
 bidental
@@ -5944,11 +5934,6 @@ bird of passage
 bird of prey
 bird sanctuary
 bird shot
-bird's eye
-bird's eye view
-bird's nest
-bird's-eye
-bird's-nest
 bird-dog
 bird-watch
 bird-watcher
@@ -6047,7 +6032,6 @@ bisexuality
 bish
 bishop
 bishop sleeve
-bishop's ring
 bishopric
 bisk
 bismarck
@@ -6094,7 +6078,7 @@ bite cell
 bite guard
 bite off
 bite on
-bite one's tongue
+bite one
 bite the bullet
 bite the dust
 bite the hand that feeds one
@@ -6629,7 +6613,7 @@ blindfolds
 blinding
 blindingly
 blindly
-blindman's buff
+blindman
 blindness
 blinds
 blindside
@@ -6893,18 +6877,16 @@ blow off
 blow off steam
 blow off valve
 blow on
-blow one's nose
-blow one's own born
-blow one's top
+blow one
 blow out
 blow over
-blow someone's top
+blow someone
 blow something out of proportion
 blow the coals
 blow the whistle
 blow to
 blow up
-blow up in someone's face
+blow up in someone
 blow your mind
 blow your nose
 blow your top
@@ -7875,7 +7857,7 @@ born city
 born into
 born of
 born to
-born with a silver spoon in one's mouth
+born with a silver spoon in one
 born-again
 borne
 borne out
@@ -8696,7 +8678,6 @@ break a record
 break apart
 break apart at the seams
 break away
-break away (from)
 break away from
 break bread
 break dance
@@ -8723,9 +8704,7 @@ break new ground
 break of
 break off
 break off something
-break one's back
-break one's promise
-break one's word
+break one
 break open
 break out
 break out into
@@ -8734,9 +8713,9 @@ break over
 break point
 break rank
 break room
-break sb's heart
+break sb
 break silence
-break someone's word
+break someone
 break the deadlock
 break the ice
 break the law
@@ -8845,7 +8824,7 @@ breathalyze
 breathalyzer
 breathe
 breathe again
-breathe down someone's neck
+breathe down someone
 breathe in
 breathe out
 breathed
@@ -9167,7 +9146,7 @@ bring round
 bring someone to
 bring something to its knees
 bring something to light
-bring something to someone's attention
+bring something to someone
 bring the house down
 bring through
 bring to
@@ -9179,7 +9158,7 @@ bring to justice
 bring to life
 bring to light
 bring to mind
-bring to one's knees
+bring to one
 bring to pass
 bring to ruin
 bring together
@@ -9284,8 +9263,7 @@ broadcasting station
 broadcasts
 broadcloth
 broaden
-broaden someone's horizon
-broaden someone's horizons
+broaden someone
 broadened
 broadening
 broadens
@@ -9468,7 +9446,7 @@ broth
 brothel
 brother
 brother in law
-brother of one's brother-in-law
+brother of one
 brother-in-law
 brotherhood
 brotherliness
@@ -9944,8 +9922,6 @@ bull frog
 bull market
 bull session
 bull terrier
-bull's eye
-bull's-eye
 bull-bear
 bull-headed
 bull-pen
@@ -10283,12 +10259,12 @@ burn down
 burn in
 burn into
 burn off
-burn one's bridge
+burn one
 burn oneself out
 burn out
 burn patients
 burn rate
-burn someone's bridges
+burn someone
 burn the candle at both ends
 burn the midnight oil
 burn through
@@ -10389,7 +10365,7 @@ bursts
 burthen
 burweed
 bury
-bury one's head in the sand
+bury one
 bury oneself in
 bury the hatchet
 burying
@@ -10505,7 +10481,6 @@ buskined
 busking
 busload
 busman
-busman's holiday
 busmen
 buspirone
 buss
@@ -10593,7 +10568,6 @@ butterflies
 butterflies in the stomach
 butterflower
 butterfly
-butterfly (stroke)
 butterfly nut
 butterfly stroke
 butterfly table
@@ -10673,7 +10647,6 @@ buy-out
 buyable
 buyback
 buyer
-buyer's market
 buying
 buying power
 buying rate
@@ -10807,7 +10780,7 @@ by the name of
 by the same token
 by the sea
 by the side of
-by the sweat of one's brow
+by the sweat of one
 by the thousands
 by the time
 by the way

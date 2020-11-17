@@ -96,7 +96,7 @@ DMM
 DMP
 DMUs
 DMV
-DN(domain name)
+DN
 DNA
 DNA fingerprinting
 DNF
@@ -393,7 +393,7 @@ Dept
 Dept.
 Deputy General Manager
 Deputy Secretary
-Deputy to the People's Congress
+Deputy to the People
 Derain
 Derek
 Derk
@@ -596,10 +596,9 @@ Dominick
 Dominions
 Domino theory
 Doms
+Don
 Don Juan
 Don Quixote
-Don't have a cow
-Don't mention it.
 Donahue
 Donald Duck
 Donas
@@ -668,7 +667,7 @@ Dowell
 Dowie
 Dowle
 Dowling
-Down's syndrome
+Down
 Downey
 Downing Street
 Dows
@@ -701,7 +700,7 @@ Drees
 Drennen
 Dresden
 Dresden Bank A.G.
-Dressler's syndrome
+Dressler
 Drexel
 Dreyfus
 Drifting Snow
@@ -1039,7 +1038,6 @@ dance orchestra
 dance studio
 dance to jazz music
 dance to the music
-dance(party)
 danceable
 danced
 dancer
@@ -1073,7 +1071,7 @@ danewort
 dang
 danger
 danger money
-danger sign(al)
+danger sign
 danger zone
 dangerous
 dangerous bend
@@ -1435,7 +1433,7 @@ ddn
 ddp
 ddu
 de
-de Quervain's Thyroiditis
+de Quervain
 de facto
 de facto recognition
 de jure
@@ -1601,7 +1599,6 @@ death tax
 death toll
 death warrant
 death wish
-death's-head
 deathbed
 deathblow
 deathcup
@@ -2121,7 +2118,7 @@ dedal
 dedans
 dedicate
 dedicate oneself to
-dedicate someone's life to
+dedicate someone
 dedicate to
 dedicated
 dedicated to
@@ -3233,7 +3230,6 @@ depasture
 depauperate
 depend
 depend on
-depend on (upon)
 depend upon
 depend upon it
 dependability
@@ -3656,7 +3652,7 @@ designable
 designate
 designated
 designated driver
-designated hitter (DH)
+designated hitter
 designates
 designating
 designation
@@ -4066,7 +4062,6 @@ device group
 device physics
 devices
 devil
-devil's advocate
 devil-may-care
 deviled
 devilfish
@@ -4114,7 +4109,7 @@ devon
 devonian
 devonshire
 devote
-devote one's attention to
+devote one
 devote oneself to
 devote to
 devoted
@@ -4554,7 +4549,7 @@ diddles
 diddling
 diddly
 didgeridoo
-didn't
+didn
 dido
 didoes
 didos
@@ -6671,15 +6666,7 @@ do morning exercises
 do not resuscitate
 do nothing but
 do odd jobs
-do one's best
-do one's bit
-do one's damnedest
-do one's duty
-do one's hair
-do one's homework
-do one's level best
-do one's part
-do one's utmost
+do one
 do oneself proud
 do out
 do over
@@ -6689,22 +6676,15 @@ do sb. a favour
 do sb. good
 do sb. wrong
 do some cleaning
-do some cleaning (shopping)
 do some cooking
 do some reading
 do some shopping
 do somebody a favor
+do someone
 do someone a favor
 do someone a favour
 do someone good
 do someone wrong
-do someone's best
-do someone's bit
-do someone's duty
-do someone's hair
-do someone's homework
-do someone's level best
-do someone's utmost
 do something on a shoe string
 do something with a bad grace
 do sport
@@ -6718,8 +6698,8 @@ do the shopping
 do the trick
 do time
 do up
-do up one's hair
-do up someone's hair
+do up one
+do up someone
 do well
 do well in
 do with
@@ -6776,7 +6756,6 @@ dockworker
 dockyard
 docs
 doctor
-doctor's degree
 doctoral
 doctoral candidate
 doctoral degree
@@ -6805,7 +6784,6 @@ documental
 documentarian
 documentaries
 documentary
-documentary (film)
 documentary draft
 documentary film
 documentation
@@ -6848,7 +6826,7 @@ doegling
 doer
 does
 doeskin
-doesn't
+doesn
 doest
 doeth
 doff
@@ -6974,7 +6952,6 @@ doling
 dolittle
 doll
 doll up
-doll's house
 dollar
 dollar bill
 dollar depreciation
@@ -7095,8 +7072,6 @@ dominos
 dominus
 domo
 don
-don't
-don't mention it
 dona
 donald
 donar
@@ -7363,7 +7338,6 @@ double helix
 double kill
 double leg lock
 double line
-double line (track) rail
 double major
 double over
 double play
@@ -7704,7 +7678,7 @@ drag in
 drag into
 drag link
 drag on
-drag one's feet
+drag one
 drag out
 drag queen
 drag up
@@ -7834,7 +7808,7 @@ draw near
 draw off
 draw on
 draw out
-draw someone's attention to
+draw someone
 draw the line
 draw the line at
 draw to
@@ -7842,7 +7816,7 @@ draw to a close
 draw to an end
 draw up
 draw upon
-draw water to one's mill
+draw water to one
 drawable
 drawback
 drawbacks
@@ -8126,9 +8100,6 @@ driven
 driven out
 driver
 driver sweep
-driver's cab
-driver's license
-driver's seat
 drivers
 driveshaft
 drivetrain
@@ -8208,7 +8179,7 @@ drop in on
 drop into
 drop off
 drop on
-drop one's guard
+drop one
 drop out
 drop out of
 drop out of school
@@ -8225,8 +8196,8 @@ drop the ball
 drop the subject
 drop through
 drop to
-drop to one's knees
-drop to someone's knees
+drop to one
+drop to someone
 drop-dead
 drop-down list box
 drop-down menu
@@ -8767,7 +8738,7 @@ durex
 durham
 durian
 during
-during one's absence
+during one
 during the course of
 during the day
 during the week
@@ -8825,7 +8796,7 @@ dutch act
 dutch auction
 dutch courage
 dutch treat
-dutchman's-breeches
+dutchman
 duteous
 dutiable
 duties

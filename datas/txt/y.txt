@@ -70,7 +70,8 @@ Yorkshire
 Yorkshire pudding
 Yoruba
 Yoshiki
-You bet!
+You
+You bet
 You have my word
 You reap what you sow
 You will never guess.
@@ -81,7 +82,6 @@ Youngs
 Your) Excellency
 Your) Majesty
 Your) Royal Highness
-Youre welcome
 Yours Truly
 Yours faithfully
 Youth Day
@@ -459,7 +459,7 @@ yoni
 yonis
 yonker
 yoo-hoo
-yor're through
+yor
 yore
 yorker
 yorktown
@@ -477,12 +477,6 @@ you name it
 you never know
 you owe me one
 you said it
-you'd
-you'd better
-you'll
-you're
-you're welcome
-you've
 you-all
 young
 young adult

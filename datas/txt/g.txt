@@ -187,7 +187,6 @@ Gatewood
 Gatsby
 Gattuso
 Gaucher
-Gaucher's
 Gauguin
 Gaultheria
 Gaun
@@ -228,9 +227,9 @@ Genera
 General Assembly
 General Auditor
 General Certificate of Education
+General Manager
 General Manager Assistant
-General Manager's Secretary
-General Manager; C.E.O(Chief Executive Officer)
+General Manager; C.E.O
 General Motors
 General Sherman
 Generalized anxiety disorder
@@ -410,9 +409,9 @@ Gog
 Gogol
 Goidelic
 Golan Heights
+Gold
 Gold Coast
 Gold Coin
-Gold(Au)
 Golde
 Golden Ball
 Golden Gate
@@ -2200,7 +2199,7 @@ get busy
 get by
 get by heart
 get carried away
-get close (to)
+get close
 get close to
 get cold feet
 get colors
@@ -2230,8 +2229,8 @@ get home
 get hurt
 get in
 get in a word
-get in one's way
-get in sb's hair
+get in one
+get in sb
 get in shape
 get in the way
 get in the way of
@@ -2243,7 +2242,7 @@ get into
 get into a plane
 get into debt
 get into hot water
-get into one's stride
+get into one
 get into shape
 get into the act
 get into the habit of
@@ -2267,29 +2266,22 @@ get off with
 get on
 get on board
 get on in life
-get on one's nerves
-get on someone's nerves
+get on one
+get on someone
 get on to
 get on to...
 get on well with
 get on with
 get on with sb.
 get on with someone
-get one's act together
-get one's breath
-get one's ducks in a row
-get one's hands dirty
-get one's hands on
-get one's money's worth
-get one's own back
-get one's teeth into
+get one
 get oneself together
 get out
 get out of
 get out of hand
 get out of here
 get out of line
-get out of someone's way
+get out of someone
 get out of the way
 get out there
 get over
@@ -2312,15 +2304,8 @@ get round to
 get set
 get sick
 get sick of
+get someone
 get someone down
-get someone's feet soiled
-get someone's foot in the door
-get someone's hands on
-get someone's mind off
-get someone's point
-get someone's teeth into
-get someone's way
-get someone's work cut out
 get something down
 get something for free
 get something in
@@ -2356,8 +2341,8 @@ get to
 get to grips
 get to grips with
 get to know
-get to one's feet
-get to someone's feet
+get to one
+get to someone
 get to the bottom of
 get to work
 get together
@@ -2774,9 +2759,7 @@ give of
 give off
 give offense
 give on
-give one's ears
-give one's love
-give one's word
+give one
 give oneself
 give oneself airs
 give oneself away
@@ -2794,6 +2777,7 @@ give sb. a hand
 give sb. a lift
 give sb. to understand
 give shape to
+give someone
 give someone a big hand
 give someone a free hand
 give someone a hand
@@ -2802,14 +2786,12 @@ give someone a hug
 give someone a push
 give someone a ride
 give someone a ring
-give someone a run for one's money
+give someone a run for one
 give someone credit for
 give someone free rein
 give someone the benefit of the doubt
 give someone the edge
 give someone the green light
-give someone's ears
-give someone's life for
 give something off
 give something up
 give the game away
@@ -2973,7 +2955,7 @@ glasswork
 glasswort
 glassy
 glassy-eyed
-glauber's salt
+glauber
 glauberite
 glaucoma
 glaucomatous
@@ -3549,9 +3531,8 @@ go on with
 go out
 go out of
 go out of business
-go out of one's way
-go out of one's way to do sth.
-go out of someone's way
+go out of one
+go out of someone
 go out of style
 go out of the way
 go out to
@@ -4650,7 +4631,7 @@ gravenhurst
 gravenstein
 graveolent
 graver
-graves' disease
+graves
 graveside
 gravest
 gravestone
@@ -4724,7 +4705,7 @@ grazioso
 grease
 grease gun
 grease monkey
-grease someone's palm
+grease someone
 greaseball
 greased
 greasepaint
@@ -4993,7 +4974,7 @@ grinch
 grind
 grind down
 grind on
-grind one's teeth
+grind one
 grind out
 grind to a halt
 grind up
@@ -5049,7 +5030,7 @@ gristliest
 gristly
 gristmill
 grit
-grit someone's teeth
+grit someone
 gritch
 grith
 grits
@@ -5680,7 +5661,7 @@ gunning
 gunnings
 gunny
 gunny bag
-gunny cloth (bag)
+gunny cloth
 gunnysack
 gunpaper
 gunplay

@@ -203,7 +203,7 @@ Wene
 Wentworth
 Wern
 Werner
-Wernicke's encephalopathy
+Wernicke
 Werre
 Werst
 Wesleyanism
@@ -232,13 +232,12 @@ Weyerhaeuser
 Weymouth
 Whan
 Wharton
-What a pity!
+What
+What a pity
 What a shame
 What do you mean
 What for
 What if...?
-What's the problem
-What's wrong (with)
 Whatley
 Wheatley
 Wheaton
@@ -374,8 +373,7 @@ Woll
 Wolle
 Wolof
 Wolsey
-Women's Day
-Women's wear
+Women
 Wonderly
 Wone
 Wong
@@ -1039,7 +1037,7 @@ wash basin
 wash down
 wash drawing
 wash off
-wash one's hand of
+wash one
 wash out
 wash over
 wash sale
@@ -1074,7 +1072,6 @@ washing-up
 washing-up liquid
 washings
 washington
-washington's birthday
 washingtonia
 washingtonian
 washout
@@ -1083,7 +1080,7 @@ washroom
 washstand
 washtub
 washy
-wasn't
+wasn
 wasp
 wasp waist
 wasp-waisted
@@ -1103,7 +1100,7 @@ wastage
 waste
 waste away
 waste disposal
-waste one's breath
+waste one
 waste paper
 waste pipe
 waste time
@@ -1326,7 +1323,7 @@ wave away
 wave goodbye
 wave length
 wave off
-wave one's hand
+wave one
 wave packet
 wave theory
 wave-height
@@ -1433,10 +1430,6 @@ wd
 wdm
 we
 we are ready
-we'd
-we'll
-we're
-we've
 weak
 weak in
 weak link
@@ -1947,7 +1940,7 @@ were
 were it not for
 were wolf
 weregild
-weren't
+weren
 werewolf
 wergeld
 wergild
@@ -2079,11 +2072,6 @@ what the heck
 what the hell
 what time
 what with
-what's
-what's more
-what's the matter
-what's up
-what's wrong
 what-if
 whatchamacallit
 whatever
@@ -2166,12 +2154,11 @@ when push comes to shove
 whenas
 whence
 whencesoever
-whene'er
+whene
 whenever
 whensoever
 where
 where necessary
-where'er
 whereabout
 whereabouts
 whereas
@@ -2212,7 +2199,7 @@ whey-faced
 wheyey
 wheyface
 which
-which adj. pron.
+which adj.
 whichever
 whicker
 whid
@@ -2487,11 +2474,6 @@ who
 who am I
 who is calling?
 who is speaking?
-who'd
-who'll
-who're
-who's
-who's who
 whoa
 whodunit
 whodunnit
@@ -2975,7 +2957,7 @@ wing man
 wing mirror
 wing nut
 wing play
-wing rail (of frog)
+wing rail
 wing-back
 wingback
 wingding
@@ -3213,7 +3195,7 @@ with a will
 with abandon
 with age
 with all due respect
-with all one's heart
+with all one
 with an air of
 with an eye for
 with an eye to
@@ -3263,7 +3245,7 @@ withdraw
 withdraw from
 withdraw money
 withdrawal
-withdrawal of one's driving licence
+withdrawal of one
 withdrawal slip
 withdrawal symptom
 withdrawals
@@ -3290,8 +3272,8 @@ withholding tax
 withholds
 withies
 within
-within a stone's throw
-within arm's reach
+within a stone
+within arm
 within limits
 within reach
 within reason
@@ -3446,12 +3428,9 @@ wombat
 womby
 women
 women of child-bearing age
-women's liberation
-women's movement
 womenfolk
 womera
 won
-won't
 wonder
 wonder about
 wonder at
@@ -3552,7 +3531,6 @@ woodstove
 woodsy
 woodward
 woodwind
-woodwind (instrument)
 woodwinds
 woodwork
 woodworker
@@ -3793,7 +3771,6 @@ world power
 world view
 world war
 world without end
-world's fair
 world-class
 world-famous
 world-renowned
@@ -3875,7 +3852,7 @@ worsting
 worsts
 wort
 worth
-worth one's salt
+worth one
 worth while
 worthful
 worthier
@@ -3889,7 +3866,6 @@ worthlessly
 worthlessness
 worthwhile
 worthy
-worthy (of)
 worthy of
 wost
 wostteth
@@ -3908,7 +3884,7 @@ would sooner
 would-be
 wouldbe
 wouldest
-wouldn't
+wouldn
 wouldst
 wound
 wound up
@@ -3946,7 +3922,7 @@ wrap
 wrap around
 wrap in
 wrap skirt
-wrap someone around one's little finger
+wrap someone around one
 wrap up
 wrap-up
 wraparound
