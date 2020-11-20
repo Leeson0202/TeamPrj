@@ -1,15 +1,19 @@
-import requests
-import spider1
-import spider2
-import spider3
-from bs4 import BeautifulSoup
+from scrapy.spider1 import *
+from scrapy.spider2 import *
+from scrapy.spider3 import *
+from sql.in_sql import *
+from requests import *
 
 import time
 
 header = {"user-agent": 'Mozilla/5.0'}  # 创建一个字段 浏览器5.0
 url_head_1 = "https://www.koolearn.com"
 url_head_2 = "http://www.iciba.com/word?w="
-
+host = 'localhost'
+port = 3306
+user = 'root'
+password = '123456'  # 'Zhw626938'
+database = 'youdian'
 
 class Vocabulary:
     # spell tag clearfix sentences分别为: str str 列表 词典
@@ -26,7 +30,7 @@ def get_HTTP_response(url=None, params=None):
     """
     if url:
         try:
-            r = requests.get(url, headers=header, params=params,
+            r = get(url, headers=header, params=params,
                     timeout=30)  # 伪装浏览器进行爬取
             r.raise_for_status()  # 自动检测爬虫状态=200
         except:
@@ -49,7 +53,7 @@ def MyBeautifulSoup(soup=None, rex=None):
         for i in word_list:
             x = ''
             for j in i:
-                if (ord(j)<91 and ord(j)>40)or(ord(j)>95 and ord(j)<123) or ord(j) == 32 or ord(j) ==45:
+                if (ord(j) < 91 and ord(j) > 40) or (ord(j) > 95 and ord(j) < 123) or ord(j) == 32 or ord(j) == 45:
                     x += j
                 else:
                     break
@@ -128,9 +132,8 @@ def word_sort(path):
         with open(path, "w", encoding='utf-8') as f:
             for i in lines:
                 f.write(i + '\n')
-        print("保存成功")
+        return
     except:
-        print("保存失败")
         return
 
 
@@ -141,13 +144,16 @@ def to_progress(id=0):
     """
     if id == 1:  # ----爬取字母列表
         # url = url_head_1 + 'dict/zimu_' + chr(ord('a')) + '_1.html'  # 单个字母测试
+        thread = list()
         for a in range(ord('a'), ord('z') + 1):
-            url = url_head_1 + '/dict/zimu_' + chr(a) + '_1.html'  # 生成一个字母的首url链接
-            # print(url)
-            spider1.spider_1(url)  # 进入spider_1
-            # ---------------------------------去重排序算法
+            url = url_head_1 + '/dict/zimu_' + \
+                chr(a) + '_1.html'  # 生成一个字母的首url链接
             path = './datas/txt/' + chr(a) + '.txt'
-            word_sort(path=path)
+            t = threading.Thread(target=spider_1,args = (url,path))  # 进入spider_1
+            thread.append(t)
+        for i in thread:
+            i.start()
+        i.join()
         exit()
 
     elif (id == 2):  # ----搜索词汇
@@ -155,12 +161,12 @@ def to_progress(id=0):
         pass
 
     elif (id == 3):  # ----重新搜索词汇详情
-        for i in range(ord('a'), ord('a') + 1):
+        for i in range(ord('a'), ord('z') + 1):
             path1 = './datas/txt/' + chr(i) + '.txt'
             path2 = './datas/json/' + chr(i) + '.json'
             start = time.time()
-            spider2.spider_2(path1, path2, letter=chr(i), key_word='', start=start)
-        input("------------单词爬取保存成功-------------")
+            spider_2(path1, path2, letter=chr(i), key_word='', start=start)
+        print("------------单词爬取保存成功-------------")
         exit()
 
     elif (id == 4):  # ----继续搜索词汇详情
@@ -177,8 +183,18 @@ def to_progress(id=0):
             path1 = './datas/txt/' + chr(i) + '.txt'
             path2 = './datas/json/' + chr(i) + '.json'
             start = time.time()
-            spider2.spider_2(path1, path2, letter=chr(i), key_word=key_word, start=start)
+            spider_2(path1, path2, letter=chr(i),
+                     key_word=key_word, start=start)
         exit()
+    elif(id == 5):
+        for i in range(ord('a'), ord('z') + 1):
+            path2 = './datas/json/' + chr(i) + '.json'
+            start = time.time()
+            in_sql( path2, host, port, user, password, database)
+            print("\r  {}   导入成功".format(chr(i)) )
+        print("------------ mysql 录入成功 -------------")
+        exit()
+
     else:
         exit()
 
@@ -189,12 +205,12 @@ def main():
     """
     while True:
         id = eval(input("""
-1. 收集词汇表       2. 搜索词汇
+1. 收集词汇表        2. 搜索词汇
 3. 重新收集词汇详情  4.继续搜索词汇详情
-5. 退出
+5. 导入数据库        6. 退出
 请输入序号---------》"""))
 
-        if id < 5 and id > 0:
+        if id < 6 and id > 0:
             to_progress(id)  # 进入分进程函数
         else:
             return
@@ -202,3 +218,5 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+
