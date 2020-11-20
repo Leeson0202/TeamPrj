@@ -9,11 +9,12 @@ import time
 header = {"user-agent": 'Mozilla/5.0'}  # 创建一个字段 浏览器5.0
 url_head_1 = "https://www.koolearn.com"
 url_head_2 = "http://www.iciba.com/word?w="
-host = 'localhost'
+host = '192.168.43.251'
 port = 3306
 user = 'root'
-password = '123456'  # 'Zhw626938'
+password =   'Zhw626938.'
 database = 'youdian'
+
 
 class Vocabulary:
     # spell tag clearfix sentences分别为: str str 列表 词典
@@ -149,7 +150,8 @@ def to_progress(id=0):
             url = url_head_1 + '/dict/zimu_' + \
                 chr(a) + '_1.html'  # 生成一个字母的首url链接
             path = './datas/txt/' + chr(a) + '.txt'
-            t = threading.Thread(target=spider_1,args = (url,path))  # 进入spider_1
+            t = threading.Thread(
+                target=spider_1, args=(url, path))  # 进入spider_1
             thread.append(t)
         for i in thread:
             i.start()
@@ -190,8 +192,8 @@ def to_progress(id=0):
         for i in range(ord('a'), ord('z') + 1):
             path2 = './datas/json/' + chr(i) + '.json'
             start = time.time()
-            in_sql( path2, host, port, user, password, database)
-            print("\r  {}   导入成功".format(chr(i)) )
+            in_sql(path2, host, port, user, password, database)
+            print("\r  {}   导入成功".format(chr(i)))
         print("------------ mysql 录入成功 -------------")
         exit()
 
@@ -218,5 +220,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-
-

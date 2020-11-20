@@ -16,6 +16,8 @@ class MySQLConnection(object):
         self.database = database
         self.conn = None
         self.cursor = None
+        self.connect_cursor()
+
 
     def connect_cursor(self):
         """
@@ -25,13 +27,16 @@ class MySQLConnection(object):
                                     password=self.password, database=self.database, charset='utf8')
         self.cursor = self.conn.cursor()
 
+    def close(self):
+        self.cursor.close()
+        self.conn.close()
+
     def update_table(self, sql):
         """
         修改数据
         """
         try:
             pass
-            self.connect_cursor()
             self.cursor.execute(sql)
             self.conn.commit()
             print('---------------->修改数据成功')
@@ -47,15 +52,12 @@ class MySQLConnection(object):
         """
         try:
             pass
-            self.connect_cursor()
             self.cursor.execute(sql)
             self.conn.commit()
             print('---------------->删除单行数据成功')
         except Exception as error:
             print(error)
             self.conn.rollback()
-        finally:
-            self.conn.close()
 
     def insert_table(self, sql):
         """
@@ -63,15 +65,12 @@ class MySQLConnection(object):
         """
         try:
             pass
-            self.connect_cursor()
             self.cursor.execute(sql)
             self.conn.commit()
             print('\r---------------->插入数据成功',end = '')
         except Exception as error:
             print(error)
             self.conn.rollback()
-        finally:
-            self.conn.close()
 
     def search(self, sql):
         """
@@ -85,8 +84,6 @@ class MySQLConnection(object):
         except Exception as error:
             print(error)
             self.conn.rollback()
-        finally:
-            self.conn.close()
 
 
 
