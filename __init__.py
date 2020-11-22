@@ -3,7 +3,7 @@ from scrapy.spider2 import *
 from scrapy.spider3 import *
 from sql.in_sql import *
 from requests import *
-
+from watch.watch import  *
 import time
 
 header = {"user-agent": 'Mozilla/5.0'}  # 创建一个字段 浏览器5.0
@@ -191,10 +191,17 @@ def to_progress(id=0):
     elif(id == 5):
         for i in range(ord('a'), ord('z') + 1):
             path2 = './datas/json/' + chr(i) + '.json'
-            start = time.time()
             in_sql(path2, host, port, user, password, database)
             print("\r  {}   导入成功".format(chr(i)))
         print("------------ mysql 录入成功 -------------")
+        exit()
+    elif(id == 6):
+        for i in range(ord('a'), ord('z') + 1):
+            path1 = './datas/json/' + chr(i) + '.json'
+            path2 = './watch/json/new_' + chr(i) + '.json'
+            watch(path1,path2)
+            print("\r  {}   提取成功".format(chr(i)))
+        print("------------ 提取完成 -------------")
         exit()
 
     else:
@@ -209,10 +216,10 @@ def main():
         id = eval(input("""
 1. 收集词汇表        2. 搜索词汇
 3. 重新收集词汇详情  4.继续搜索词汇详情
-5. 导入数据库        6. 退出
+5. 导入数据库        0. 退出
 请输入序号---------》"""))
 
-        if id < 6 and id > 0:
+        if id > 0:
             to_progress(id)  # 进入分进程函数
         else:
             return
