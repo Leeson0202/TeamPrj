@@ -163,7 +163,7 @@ def to_progress(id=0):
         pass
 
     elif (id == 3):  # ----重新搜索词汇详情
-        for i in range(ord('a'), ord('z') + 1):
+        for i in range(ord('a'), ord('a') + 1):
             path1 = './datas/txt/' + chr(i) + '.txt'
             path2 = './datas/json/' + chr(i) + '.json'
             start = time.time()
@@ -216,7 +216,8 @@ def main():
         id = eval(input("""
 1. 收集词汇表        2. 搜索词汇
 3. 重新收集词汇详情  4.继续搜索词汇详情
-5. 导入数据库        0. 退出
+5. 导入数据库        6.提取手表格式
+0. 退出
 请输入序号---------》"""))
 
         if id > 0:
