@@ -34,7 +34,7 @@ def in_sql(path, host, port, user, password, database=None):
                                                      pymysql.escape_string(''.join(i['clearfix'])),
                                                      pymysql.escape_string(sentence))
         values.append(value)
-        if index %1000 == 0 or index == len(content)-1:
+        if index %2000 == 0 or index == len(content)-1:
             values = ','.join(values)
             sql = """insert into word values{};""".format(values)
             cursor.insert_table(sql)

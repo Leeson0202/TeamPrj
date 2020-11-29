@@ -9,10 +9,10 @@ import time
 header = {"user-agent": 'Mozilla/5.0'}  # 创建一个字段 浏览器5.0
 url_head_1 = "https://www.koolearn.com"
 url_head_2 = "http://www.iciba.com/word?w="
-host = '192.168.43.251'
+host = 'localhost'
 port = 3306
 user = 'root'
-password =   'Zhw626938.'
+password =   '123456'
 database = 'youdian'
 
 
