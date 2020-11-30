@@ -1,0 +1,7 @@
+<div class="container"  >
+    <stack>
+        <button type="capsule" id="mybtn" class="btn" @click="myon">登录</button>
+        <text class="txt" onclick="link">
+            {{log}}</text>
+    </stack>
+</div>

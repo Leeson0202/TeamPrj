@@ -1,0 +1,28 @@
+.container {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    width: 454px;
+    height: 454px;
+    background-image: "entry/src/main/js/default/pages/common/jpg001_1.jpg";
+}
+.btn{
+    justify-content: center;
+    margin-left: 149px;
+    margin-top: 297px;
+    height: 50px;
+    width: 156px;
+    font-size: 30px;
+    background-color: lightblue;
+}
+
+.txt{
+    justify-content: center;
+    margin-left: 104px;
+    margin-top: 77px;
+    height: 150px;
+    width: 266px;
+    font-size: 30px;
+    background-color: transparent;
+    color: coral;
+}

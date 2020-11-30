@@ -1,0 +1,76 @@
+{
+  "app": {
+    "bundleName": "com.example.youdian2333",
+    "vendor": "example",
+    "version": {
+      "code": 1,
+      "name": "1.0"
+    },
+    "apiVersion": {
+      "compatible": 3,
+      "target": 3
+    }
+  },
+  "deviceConfig": {
+    "default": {
+      "network": {
+        "usesCleartext": true
+      }
+    }
+  },
+  "module": {
+    "reqPermissions": [
+      {
+        "name": "ohos.permission.INTERNET"
+      }
+    ],
+    "package": "com.example.youdian2333",
+    "name": ".Youdian2333",
+    "reqCapabilities": [
+      "video_support"
+    ],
+    "deviceType": [
+      "wearable"
+    ],
+    "distro": {
+      "deliveryWithInstall": true,
+      "moduleName": "entry",
+      "moduleType": "entry"
+    },
+    "abilities": [
+      {
+        "skills": [
+          {
+            "entities": [
+              "entity.system.home"
+            ],
+            "actions": [
+              "action.system.home"
+            ]
+          }
+        ],
+        "formEnabled": false,
+        "name": "com.example.youdian2333.MainAbility",
+        "icon": "$media:icon",
+        "description": "$string:mainability_description",
+        "label": "Youdian2333",
+        "type": "page",
+        "launchType": "standard"
+      }
+    ],
+    "js": [
+      {
+        "pages": [
+          "pages/index/index",
+          "pages/train/train",
+          "pages/tip/tip"
+        ],
+        "name": "default",
+        "window": {
+          "designWidth": 454,
+          "autoDesignWidth": false
+        }
+      }
+    ]
+  }
+}

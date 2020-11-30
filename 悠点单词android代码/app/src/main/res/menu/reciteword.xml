@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/c1"
+        android:title="选择词库"
+        />
+    <item
+        android:id="@+id/c2"
+        android:title="手表模式"
+        />
+    <item
+        android:id="@+id/c3"
+        android:title="提示"
+        />
+</menu>

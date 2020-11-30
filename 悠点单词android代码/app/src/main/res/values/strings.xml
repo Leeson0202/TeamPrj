@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">悠点单词</string>
+    <string name="title_activity_main2">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="motto">A great man is always willing to be little. —— R.W.Emerson\n\n\n伟大的人物总是愿意当小人物的。——爱默生</string>
+    <string name="motto1">Gods determine what you are going to be.——Julius Erving\n\n\n人生的奋斗目标决定你将成为怎样的人。——欧文</string>
+    <string name="startTip">挑战即将开始。\n\n为时60s，每记住一个单词请按“√”，跳过请按“×”。\n\n一经开始，恕不暂停(￣^￣)。</string>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_reciteWord">
+
+    <fragment
+        android:id="@+id/navigation_reciteWord"
+        android:name="com.example.myapplication.ui.home.HomeFragment"
+        android:label="背词"
+        tools:layout="@layout/fragment_home" />
+    <fragment
+        android:id="@+id/navigation_community"
+        android:name="com.example.myapplication.ui.dashboard.DashboardFragment"
+        android:label="社区"
+        tools:layout="@layout/fragment_dashboard" />
+
+    <fragment
+        android:id="@+id/navigation_myInfo"
+        android:name="com.example.myapplication.ui.notifications.NotificationsFragment"
+        android:label="我的"
+        tools:layout="@layout/fragment_notifications" />
+</navigation>

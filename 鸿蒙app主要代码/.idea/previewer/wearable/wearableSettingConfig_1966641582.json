@@ -1,0 +1,16 @@
+{
+ "setting": {
+  "1.0.0": {
+   "Resolution": {
+    "args": {
+     "Resolution": "466*466"
+    }
+   },
+   "DeviceType": {
+    "args": {
+     "DeviceType": "wearable"
+    }
+   }
+  }
+ }
+}

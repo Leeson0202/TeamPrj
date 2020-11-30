@@ -1,0 +1,11 @@
+<div class="container">
+    <stack>
+        <progress class="pro" id="mypro" type="ring" percent="{{tittle}}" ></progress>
+        <button type="capsule" id="mybtn" class="btn" @click="stop">结束</button>
+        <text class="txt"  @click="next" onlongpress="myon" num="{{a}}">
+            {{spell}}
+            {{abc}}
+        </text>
+    </stack>
+
+</div>

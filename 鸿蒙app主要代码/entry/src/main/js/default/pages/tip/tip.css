@@ -1,0 +1,39 @@
+.container {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    width: 454px;
+    height: 454px;
+    background-color: aliceblue;
+}
+.pro{
+    justify-content: center;
+    color: cornflowerblue;
+    background-color:lightblue;
+    stroke-width: 28px;
+    start-angle: 0deg;
+    total-angle:360deg;
+    margin-left: 0px;
+    margin-top: 0px;
+    width: 454px;
+    height: 454px;
+}
+.btn{
+    justify-content: center;
+    margin-left: 149px;
+    margin-top: 297px;
+    height: 50px;
+    width: 156px;
+    font-size: 30px;
+    background-color: lightblue;
+}
+.txt{
+    justify-content: center;
+    margin-left: 94px;
+    margin-top: 137px;
+    height: 150px;
+    width: 266px;
+    font-size: 30px;
+    background-color: transparent;
+    color: coral;
+}
